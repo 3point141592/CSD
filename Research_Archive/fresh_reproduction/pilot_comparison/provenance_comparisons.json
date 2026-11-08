@@ -1,0 +1,50 @@
+[
+  {
+    "dimension": 32,
+    "seed": 7,
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "dimension": 32,
+    "seed": 19,
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "dimension": 32,
+    "seed": 43,
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "dimension": 64,
+    "seed": 7,
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "dimension": 64,
+    "seed": 19,
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "dimension": 64,
+    "seed": 43,
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  }
+]

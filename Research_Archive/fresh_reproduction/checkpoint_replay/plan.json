@@ -1,0 +1,1230 @@
+{
+  "created_utc": "2026-10-31T21:40:55Z",
+  "models": 240,
+  "jobs": [
+    {
+      "dimension": 32,
+      "seed": 7,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 7,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 7,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 7,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 19,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 19,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 19,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 19,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 43,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 43,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 43,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 43,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 71,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 71,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 71,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 71,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 101,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 101,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 101,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 101,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 131,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 131,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 131,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 131,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 163,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 163,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 163,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 163,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 197,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 197,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 197,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 197,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 229,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 229,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 229,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 229,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 263,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 263,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 263,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 263,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 293,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 293,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 293,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 293,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 331,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 331,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 331,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 331,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 367,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 367,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 367,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 367,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 401,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 401,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 401,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 401,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 439,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 439,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 439,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 439,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 479,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 479,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 479,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 479,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 521,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 521,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 521,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 521,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 563,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 563,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 563,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 563,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 607,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 607,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 607,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 607,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 653,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 653,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 653,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 653,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 701,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 701,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 701,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 701,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 751,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 751,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 751,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 751,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 809,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 809,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 809,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 809,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 863,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 863,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 863,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 863,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 919,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 919,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 919,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 919,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 977,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 977,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 977,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 977,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 1031,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 1031,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 1031,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 1031,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 1091,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 1091,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 1091,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 1091,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 1153,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 1153,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 1153,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 1153,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 32,
+      "seed": 1217,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 32,
+      "seed": 1217,
+      "model": "Relational"
+    },
+    {
+      "dimension": 32,
+      "seed": 1217,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 32,
+      "seed": 1217,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 7,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 7,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 7,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 7,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 19,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 19,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 19,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 19,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 43,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 43,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 43,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 43,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 71,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 71,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 71,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 71,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 101,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 101,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 101,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 101,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 131,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 131,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 131,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 131,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 163,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 163,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 163,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 163,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 197,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 197,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 197,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 197,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 229,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 229,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 229,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 229,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 263,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 263,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 263,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 263,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 293,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 293,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 293,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 293,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 331,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 331,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 331,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 331,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 367,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 367,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 367,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 367,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 401,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 401,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 401,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 401,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 439,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 439,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 439,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 439,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 479,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 479,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 479,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 479,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 521,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 521,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 521,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 521,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 563,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 563,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 563,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 563,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 607,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 607,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 607,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 607,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 653,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 653,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 653,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 653,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 701,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 701,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 701,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 701,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 751,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 751,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 751,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 751,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 809,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 809,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 809,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 809,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 863,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 863,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 863,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 863,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 919,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 919,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 919,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 919,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 977,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 977,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 977,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 977,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 1031,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 1031,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 1031,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 1031,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 1091,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 1091,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 1091,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 1091,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 1153,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 1153,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 1153,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 1153,
+      "model": "DirectRawWide"
+    },
+    {
+      "dimension": 64,
+      "seed": 1217,
+      "model": "DirectPrepared"
+    },
+    {
+      "dimension": 64,
+      "seed": 1217,
+      "model": "Relational"
+    },
+    {
+      "dimension": 64,
+      "seed": 1217,
+      "model": "DirectPreparedNarrow"
+    },
+    {
+      "dimension": 64,
+      "seed": 1217,
+      "model": "DirectRawWide"
+    }
+  ],
+  "splits": [
+    "iid",
+    "exact_rotated"
+  ],
+  "training_fit_recomputed": true,
+  "checkpoint_inference": true,
+  "optimizer_updates": false,
+  "fresh_training": false,
+  "criteria": {
+    "ranks_and_parameter_count_absolute": 0,
+    "recall_rate_fraction_absolute": 1e-06,
+    "angular_error_degrees_absolute": 0.02,
+    "other_numeric_absolute": 2e-05,
+    "basis": "Original prepared historic() validator, with stricter exact ranks/counts and 1e-6 rate/fraction flags.",
+    "meaning": "Predeclared comparison flags; all exactness and raw deltas are retained. No tolerance is widened after viewing results."
+  },
+  "source_sha256": {
+    "prepared_lock": "55eaeb89c48b2df1c5528a04cccb19583615734b1c7dfae725c8fad8754b116c",
+    "width_lock": "f6e23c10529f146d9e9be7f26500d49b56ffcc6b43fcb6ffad767e5304770e77",
+    "working_prepared_lock": "55eaeb89c48b2df1c5528a04cccb19583615734b1c7dfae725c8fad8754b116c",
+    "working_width_lock": "f6e23c10529f146d9e9be7f26500d49b56ffcc6b43fcb6ffad767e5304770e77",
+    "working_prepared_runner": "fa93a6029e678955f7c127df6156efbf40d80023914dc73cb5538d1b0d4f2926",
+    "working_width_runner": "d2e41237460aa5791ed93c202b5912c21e07ffd844a7748621275332c7695900"
+  }
+}

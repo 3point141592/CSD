@@ -1,0 +1,56 @@
+{
+  "started_utc": "2026-10-31T21:45:43Z",
+  "command": [
+    "C:\\Users\\krivi\\Documents\\Codex\\2026-10-30\\ins\\outputs\\CSD_Fresh_Reproduction_2026-10-31\\validation_scripts\\orchestrate_retraining.py",
+    "--project",
+    "C:\\Users\\krivi\\Documents\\Codex\\2026-10-30\\ins\\outputs\\CSD_Fresh_Reproduction_2026-10-31\\project",
+    "--archive",
+    "C:\\Users\\krivi\\OneDrive\\Desktop\\Creativity\\CSD_PeerJ_Evidence_Package_20261028_v1\\02_Research_Archive",
+    "--policy",
+    "C:\\Users\\krivi\\Documents\\Codex\\2026-10-30\\ins\\outputs\\CSD_Fresh_Reproduction_2026-10-31\\comparison_policy.json",
+    "--comparator",
+    "C:\\Users\\krivi\\Documents\\Codex\\2026-10-30\\ins\\outputs\\CSD_Fresh_Reproduction_2026-10-31\\validation_scripts\\compare_retrains.py",
+    "--phase",
+    "pilot"
+  ],
+  "python_executable": "C:\\Users\\krivi\\OneDrive\\Desktop\\Creativity\\CSD_Recovery_and_Manuscript_Update\\environment\\.venv\\Scripts\\python.exe",
+  "runtime": {
+    "python": "3.10.11 (main, May  7 2023, 18:05:05) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "torch_version": "2.12.1+cu132",
+    "cuda_available": true,
+    "torch_cuda_version": "13.2",
+    "device": "cuda",
+    "device_name": "NVIDIA GeForce RTX 5090",
+    "dtype": "float32",
+    "tf32_matmul": false,
+    "tf32_cudnn": false,
+    "executable": "C:\\Users\\krivi\\OneDrive\\Desktop\\Creativity\\CSD_Recovery_and_Manuscript_Update\\environment\\.venv\\Scripts\\python.exe",
+    "numpy": "2.2.6",
+    "psutil": "7.2.2",
+    "threads": 24,
+    "interop_threads": 24,
+    "cudnn_version": 92000,
+    "deterministic_algorithms": false,
+    "matmul_precision": "highest",
+    "pid": 101504,
+    "host_memory": {
+      "total": 68135153664,
+      "available": 20372426752,
+      "percent": 70.1,
+      "used": 47762726912,
+      "free": 20372426752
+    },
+    "disk": {
+      "total": 4065061761024,
+      "used": 3951297323008,
+      "free": 113764438016
+    },
+    "nvidia_smi": "name, driver_version, memory.total [MiB], memory.used [MiB], utilization.gpu [%]\nNVIDIA GeForce RTX 5090, 610.60, 32607 MiB, 4837 MiB, 1 %\n",
+    "driver_version": "610.60"
+  },
+  "orchestrator_sha256": "bb6c05adce88e89466f6cedc4568bb05773928983729d7c18df3f3b66311e1a2",
+  "comparison_policy_sha256": "af41b60c6cb416add08db9085a5bdebe7ed41a00c2440f63fbd81280fffa2a98",
+  "phase": "pilot",
+  "fresh_training": true
+}

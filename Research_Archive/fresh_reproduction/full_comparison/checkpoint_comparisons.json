@@ -1,0 +1,3122 @@
+[
+  {
+    "key": "d32_s7_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s7_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s19_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s19_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s43_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s43_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s71_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s71_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s101_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s101_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s131_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s131_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s163_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s163_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s197_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s197_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s229_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s229_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s263_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s263_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s293_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s293_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s331_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s331_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s367_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s367_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s401_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s401_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s439_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s439_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s479_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s479_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s521_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s521_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s563_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s563_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s607_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s607_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s653_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s653_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s701_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s701_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s751_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s751_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s809_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s809_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s863_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s863_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s919_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s919_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s977_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s977_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1031_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1031_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1091_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1091_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1153_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1153_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1217_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 152914,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1217_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 44775,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s7_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s7_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s19_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s19_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s43_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s43_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s71_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s71_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s101_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s101_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s131_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s131_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s163_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s163_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s197_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s197_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s229_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s229_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s263_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s263_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s293_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s293_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s331_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s331_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s367_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s367_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s401_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s401_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s439_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s439_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s479_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s479_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s521_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s521_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s563_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s563_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s607_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s607_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s653_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s653_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s701_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s701_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s751_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s751_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s809_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s809_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s863_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s863_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s919_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s919_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s977_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s977_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1031_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1031_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1091_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1091_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1153_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1153_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1217_DirectPrepared",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 190002,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1217_Relational",
+    "tensors_exact": true,
+    "tensors_checked": 16,
+    "elements_checked": 148291,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s7_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s7_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s19_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s19_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s43_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s43_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s71_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s71_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s101_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s101_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s131_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s131_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s163_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s163_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s197_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s197_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s229_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s229_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s263_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s263_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s293_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s293_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s331_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s331_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s367_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s367_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s401_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s401_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s439_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s439_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s479_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s479_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s521_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s521_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s563_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s563_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s607_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s607_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s653_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s653_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s701_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s701_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s751_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s751_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s809_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s809_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s863_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s863_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s919_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s919_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s977_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s977_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1031_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1031_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1091_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1091_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1153_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1153_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1217_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 13714,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d32_s1217_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 278302,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s7_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s7_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s19_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s19_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s43_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s43_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s71_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s71_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s101_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s101_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s131_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s131_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s163_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s163_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s197_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s197_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s229_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s229_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s263_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s263_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s293_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s293_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s331_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s331_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s367_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s367_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s401_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s401_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s439_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s439_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s479_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s479_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s521_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s521_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s563_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s563_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s607_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s607_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s653_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s653_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s701_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s701_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s751_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s751_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s809_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s809_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s863_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s863_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s919_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s919_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s977_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s977_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1031_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1031_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1091_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1091_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1153_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1153_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1217_DirectPreparedNarrow",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 20082,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  },
+  {
+    "key": "d64_s1217_DirectRawWide",
+    "tensors_exact": true,
+    "tensors_checked": 20,
+    "elements_checked": 707550,
+    "tensor_differences": [],
+    "history": {
+      "exact": true,
+      "different_fields": 0,
+      "max_absolute_numeric_difference": 0.0,
+      "differences": []
+    }
+  }
+]

@@ -1,0 +1,6 @@
+* -text
+Research_Archive/project/** -text
+Research_Archive/figure_sources/** -text
+*.docx binary
+*.png binary
+*.zip binary

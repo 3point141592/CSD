@@ -1,0 +1,75 @@
+{
+  "started_utc": "2026-10-31T22:37:09.758918+00:00",
+  "completed_utc": "2026-10-31T22:37:20.910262+00:00",
+  "elapsed_seconds": 11.1503187000053,
+  "status": "passed_fixed_inputs_live_author_document_unverified",
+  "all_fixed_inputs_unchanged": true,
+  "live_author_document_verified": false,
+  "baseline_file": "C:\\Users\\krivi\\Documents\\Codex\\2026-10-30\\ins\\work\\result_assessment_20261031\\source_integrity_before.json",
+  "baseline_file_sha256": "cda25b95156faaa59c58345c2f6a980208ef0f18ff4034d4e6801135dd876e87",
+  "training_or_inference_performed": false,
+  "results": {
+    "source": {
+      "root": "C:\\Users\\krivi\\OneDrive\\Desktop\\Creativity\\CSD_PeerJ_Evidence_Package_20261028_v1\\02_Research_Archive",
+      "index_identity": {
+        "path": "C:\\Users\\krivi\\OneDrive\\Desktop\\Creativity\\CSD_PeerJ_Evidence_Package_20261028_v1\\02_Research_Archive\\FILE_INDEX.csv",
+        "expected_sha256": "57ff11e2baa62e67860bb076e4c8e3960dd3c282f667843cbd9a08d8e5cdd691",
+        "bytes": 1255384,
+        "sha256": "57ff11e2baa62e67860bb076e4c8e3960dd3c282f667843cbd9a08d8e5cdd691",
+        "pass": true
+      },
+      "files_checked": 7915,
+      "expected_count": 7915,
+      "count_matches_baseline": true,
+      "expected_total_bytes": 2962370839,
+      "byte_count_matches_baseline": true,
+      "failures": [],
+      "unindexed_files": [],
+      "missing_files": [],
+      "pass": true
+    },
+    "kit": {
+      "root": "C:\\Users\\krivi\\Documents\\Codex\\2026-10-30\\ins\\outputs\\CSD_Computer_Release_Kit_2026-10-31_Revised",
+      "index_identity": {
+        "path": "C:\\Users\\krivi\\Documents\\Codex\\2026-10-30\\ins\\outputs\\CSD_Computer_Release_Kit_2026-10-31_Revised\\FILE_INDEX.csv",
+        "expected_sha256": "e23271059db8a4e00bdbb2563717e408635d6a8c2f007cd47fb6d03d3f720278",
+        "bytes": 56718,
+        "sha256": "e23271059db8a4e00bdbb2563717e408635d6a8c2f007cd47fb6d03d3f720278",
+        "pass": true
+      },
+      "files_checked": 352,
+      "expected_count": 352,
+      "count_matches_baseline": true,
+      "expected_total_bytes": 13688138,
+      "byte_count_matches_baseline": true,
+      "failures": [],
+      "unindexed_files": [],
+      "missing_files": [],
+      "pass": true
+    },
+    "copied_frozen_inputs": {
+      "setup_manifest": "C:\\Users\\krivi\\Documents\\Codex\\2026-10-30\\ins\\outputs\\CSD_Fresh_Reproduction_2026-10-31\\setup_manifest.json",
+      "setup_manifest_sha256": "8f711badcb3cea62c3088f424bc7b175e5ecc2a6efd8792ee12be7c73612eea6",
+      "entries_checked": 295,
+      "file_hashes_checked": 590,
+      "failures": [],
+      "pass": true,
+      "scope": "Only source-copied files; freshly generated manifests, jobs and reports are intentionally excluded."
+    },
+    "assessed_author_manuscript": {
+      "path": "C:\\Users\\krivi\\Documents\\Codex\\2026-10-30\\ins\\outputs\\CSD_Computer_Release_Kit_2026-10-31_Revised\\01_Manuscript\\CSD_Manuscript_Clean.docx",
+      "expected_sha256": "2bd4096e27453e52c7ab70f1ef7002886cdd309fcbdd3f3ebba1c4debb7ad9a0",
+      "bytes": 2065414,
+      "sha256": "2bd4096e27453e52c7ab70f1ef7002886cdd309fcbdd3f3ebba1c4debb7ad9a0",
+      "pass": true
+    },
+    "live_author_manuscript": {
+      "path": "C:\\Users\\krivi\\OneDrive\\Documents\\CSD_Final_Clean_Manuscript.docx",
+      "expected_sha256": "2bd4096e27453e52c7ab70f1ef7002886cdd309fcbdd3f3ebba1c4debb7ad9a0",
+      "pass": false,
+      "error_type": "PermissionError",
+      "error": "[Errno 13] Permission denied: 'C:\\\\Users\\\\krivi\\\\OneDrive\\\\Documents\\\\CSD_Final_Clean_Manuscript.docx'"
+    }
+  },
+  "note": "A locked or unavailable live author DOCX is reported as unverified, never silently treated as unchanged. The byte-preserved author manuscript inside the revised kit is checked independently."
+}

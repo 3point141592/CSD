@@ -1,0 +1,133 @@
+[
+  {
+    "file": "prepared_direct_comparison_20260921/per_seed.csv",
+    "available": true,
+    "archived_rows": 240,
+    "fresh_rows": 240,
+    "exact_scientific_values": true,
+    "total_rows_before_performance_filter": {
+      "archived": 240,
+      "fresh": 240
+    },
+    "excluded_performance_rows": {
+      "archived": 0,
+      "fresh": 0
+    },
+    "excluded_performance_endpoints": [],
+    "numeric_fields_compared": 7800,
+    "text_fields_compared": 840,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "file": "prepared_direct_comparison_20260921/comparison_summary.csv",
+    "available": true,
+    "archived_rows": 120,
+    "fresh_rows": 120,
+    "exact_scientific_values": true,
+    "total_rows_before_performance_filter": {
+      "archived": 168,
+      "fresh": 168
+    },
+    "excluded_performance_rows": {
+      "archived": 48,
+      "fresh": 48
+    },
+    "excluded_performance_endpoints": [
+      "job_wall_seconds",
+      "optimizer_seconds",
+      "training_peak_allocated_bytes",
+      "training_peak_reserved_bytes"
+    ],
+    "numeric_fields_compared": 960,
+    "text_fields_compared": 600,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "file": "direct_feature_width_ablation_20261025/per_seed.csv",
+    "available": true,
+    "archived_rows": 240,
+    "fresh_rows": 240,
+    "exact_scientific_values": true,
+    "total_rows_before_performance_filter": {
+      "archived": 240,
+      "fresh": 240
+    },
+    "excluded_performance_rows": {
+      "archived": 0,
+      "fresh": 0
+    },
+    "excluded_performance_endpoints": [],
+    "numeric_fields_compared": 7920,
+    "text_fields_compared": 720,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "file": "direct_feature_width_ablation_20261025/comparison_summary.csv",
+    "available": true,
+    "archived_rows": 8,
+    "fresh_rows": 8,
+    "exact_scientific_values": true,
+    "total_rows_before_performance_filter": {
+      "archived": 8,
+      "fresh": 8
+    },
+    "excluded_performance_rows": {
+      "archived": 0,
+      "fresh": 0
+    },
+    "excluded_performance_endpoints": [],
+    "numeric_fields_compared": 64,
+    "text_fields_compared": 16,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "file": "direct_feature_width_ablation_20261025/contrasts.csv",
+    "available": true,
+    "archived_rows": 16,
+    "fresh_rows": 16,
+    "exact_scientific_values": true,
+    "total_rows_before_performance_filter": {
+      "archived": 16,
+      "fresh": 16
+    },
+    "excluded_performance_rows": {
+      "archived": 0,
+      "fresh": 0
+    },
+    "excluded_performance_endpoints": [],
+    "numeric_fields_compared": 96,
+    "text_fields_compared": 64,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "file": "direct_feature_width_ablation_20261025/new_pair_contrasts.csv",
+    "available": true,
+    "archived_rows": 4,
+    "fresh_rows": 4,
+    "exact_scientific_values": true,
+    "total_rows_before_performance_filter": {
+      "archived": 4,
+      "fresh": 4
+    },
+    "excluded_performance_rows": {
+      "archived": 0,
+      "fresh": 0
+    },
+    "excluded_performance_endpoints": [],
+    "numeric_fields_compared": 28,
+    "text_fields_compared": 12,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  }
+]

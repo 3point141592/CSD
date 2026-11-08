@@ -1,0 +1,674 @@
+[
+  {
+    "path": "direct_feature_width_ablation_20261025/PLAN.md",
+    "archived_sha256": "92d6d089ab05879f88b7dcbca93f7be03ee6026bfe1f33023ecb7630d62fef03",
+    "fresh_sha256": "92d6d089ab05879f88b7dcbca93f7be03ee6026bfe1f33023ecb7630d62fef03",
+    "exact": true
+  },
+  {
+    "path": "direct_feature_width_ablation_20261025/configuration.json",
+    "archived_sha256": "d15f4a973b4697171921f7855fe5e8730dbdfe910e13fce44955a5bbee747556",
+    "fresh_sha256": "d15f4a973b4697171921f7855fe5e8730dbdfe910e13fce44955a5bbee747556",
+    "exact": true
+  },
+  {
+    "path": "direct_feature_width_ablation_20261025/lock.amendment2.json",
+    "archived_sha256": "80c0cfc4832fcd668196cce03d3fdc2f361ba6c9c63812eb913488a996523a7f",
+    "fresh_sha256": "80c0cfc4832fcd668196cce03d3fdc2f361ba6c9c63812eb913488a996523a7f",
+    "exact": true
+  },
+  {
+    "path": "direct_feature_width_ablation_20261025/lock.json",
+    "archived_sha256": "f6e23c10529f146d9e9be7f26500d49b56ffcc6b43fcb6ffad767e5304770e77",
+    "fresh_sha256": "f6e23c10529f146d9e9be7f26500d49b56ffcc6b43fcb6ffad767e5304770e77",
+    "exact": true
+  },
+  {
+    "path": "direct_feature_width_ablation_20261025/run.amendment2.py",
+    "archived_sha256": "ebcf06bc18adbf147eb641c62fe564e966dbc15c6559a82b1ec8efa653716b51",
+    "fresh_sha256": "ebcf06bc18adbf147eb641c62fe564e966dbc15c6559a82b1ec8efa653716b51",
+    "exact": true
+  },
+  {
+    "path": "direct_feature_width_ablation_20261025/run.py",
+    "archived_sha256": "d2e41237460aa5791ed93c202b5912c21e07ffd844a7748621275332c7695900",
+    "fresh_sha256": "d2e41237460aa5791ed93c202b5912c21e07ffd844a7748621275332c7695900",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/PLAN.md",
+    "archived_sha256": "31c291d17e53ff4073e766dc9146258d4ac6eecf3aaeed9e524f4456606685f8",
+    "fresh_sha256": "31c291d17e53ff4073e766dc9146258d4ac6eecf3aaeed9e524f4456606685f8",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/analyze.py",
+    "archived_sha256": "dbfd62fa7c898544a8dc18d5f5a40cb3933fb6635d96fe9e2fa0aa03cde376c3",
+    "fresh_sha256": "dbfd62fa7c898544a8dc18d5f5a40cb3933fb6635d96fe9e2fa0aa03cde376c3",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/atomic_io_repair_v5\\experiment.py",
+    "archived_sha256": "050905a44ac260027f710af94b1a404e7bbfc7dbbe515e05f1044d5d36b4ba8c",
+    "fresh_sha256": "050905a44ac260027f710af94b1a404e7bbfc7dbbe515e05f1044d5d36b4ba8c",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/atomic_io_repair_v5\\lock.json",
+    "archived_sha256": "1ca0b8cb3e5aaead241391bfda7c0755c3eaa6d56dc914441297ae275040c47d",
+    "fresh_sha256": "1ca0b8cb3e5aaead241391bfda7c0755c3eaa6d56dc914441297ae275040c47d",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/configurations.json",
+    "archived_sha256": "5f6eb693730595898de009aa663b774ad78ae7218d31fca39554475508b67692",
+    "fresh_sha256": "5f6eb693730595898de009aa663b774ad78ae7218d31fca39554475508b67692",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/experiment.py",
+    "archived_sha256": "fa93a6029e678955f7c127df6156efbf40d80023914dc73cb5538d1b0d4f2926",
+    "fresh_sha256": "fa93a6029e678955f7c127df6156efbf40d80023914dc73cb5538d1b0d4f2926",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/lock.json",
+    "archived_sha256": "55eaeb89c48b2df1c5528a04cccb19583615734b1c7dfae725c8fad8754b116c",
+    "fresh_sha256": "55eaeb89c48b2df1c5528a04cccb19583615734b1c7dfae725c8fad8754b116c",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/normalization_check_repair_v4\\experiment.py",
+    "archived_sha256": "9c5dcf71d995d63484f06ee239ea0ffe5817d05fcc6dd3db9d8af17c2c8bf934",
+    "fresh_sha256": "9c5dcf71d995d63484f06ee239ea0ffe5817d05fcc6dd3db9d8af17c2c8bf934",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/normalization_check_repair_v4\\lock.json",
+    "archived_sha256": "74004a542d74383379ee8005f5c6b2ff34d0d108b10fdb52af51bc17c242894d",
+    "fresh_sha256": "74004a542d74383379ee8005f5c6b2ff34d0d108b10fdb52af51bc17c242894d",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/__init__.py",
+    "archived_sha256": "65feb3538d4be58cec63fb0c914cf801c02abd620478eed4f4db8066205388bd",
+    "fresh_sha256": "65feb3538d4be58cec63fb0c914cf801c02abd620478eed4f4db8066205388bd",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/analysis_utils.py",
+    "archived_sha256": "6b338d9eeba78804f91092686ddddc026eca3e734e3cf84fb2b64800211939ae",
+    "fresh_sha256": "6b338d9eeba78804f91092686ddddc026eca3e734e3cf84fb2b64800211939ae",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/baselines.py",
+    "archived_sha256": "5451a6d1ea362a1beca8c8e301e1dba4ef53a677327ec406bda9ed8705d92716",
+    "fresh_sha256": "5451a6d1ea362a1beca8c8e301e1dba4ef53a677327ec406bda9ed8705d92716",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/baselines_v2.py",
+    "archived_sha256": "946ea5ecb7801a2b9b5b1a530a411067a02f682c241696ba7aa392b079098a9d",
+    "fresh_sha256": "946ea5ecb7801a2b9b5b1a530a411067a02f682c241696ba7aa392b079098a9d",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/config.py",
+    "archived_sha256": "7fc070e1786495ac082239ba9e7cdc047f710ea78e796cfa021e0d9fbcb6c623",
+    "fresh_sha256": "7fc070e1786495ac082239ba9e7cdc047f710ea78e796cfa021e0d9fbcb6c623",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/config_gen3.py",
+    "archived_sha256": "f2b624f4314f2e2c9ce09ea0f8c5c696188984950832ec3a7dec51b49226a97c",
+    "fresh_sha256": "f2b624f4314f2e2c9ce09ea0f8c5c696188984950832ec3a7dec51b49226a97c",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/config_normalization.py",
+    "archived_sha256": "2b10705116c4897fa6838e6653a572becdffffb37204018c9264d3f73efe08d2",
+    "fresh_sha256": "2b10705116c4897fa6838e6653a572becdffffb37204018c9264d3f73efe08d2",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/config_v2.py",
+    "archived_sha256": "215f0109d721d3b892d88b97e0ba3e70f6235162d01bba191828d88a9e666080",
+    "fresh_sha256": "215f0109d721d3b892d88b97e0ba3e70f6235162d01bba191828d88a9e666080",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/creative_operator_v2.py",
+    "archived_sha256": "26fe577be88a5b3c2c37b823be69af6c5b1208c6ea94bcfa0f2ee9039c9ffb22",
+    "fresh_sha256": "26fe577be88a5b3c2c37b823be69af6c5b1208c6ea94bcfa0f2ee9039c9ffb22",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/creative_operator_v3.py",
+    "archived_sha256": "0a46f90a5a396685b65009028882ac5065d99ccd53e760692d3861610ef49631",
+    "fresh_sha256": "0a46f90a5a396685b65009028882ac5065d99ccd53e760692d3861610ef49631",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/critics.py",
+    "archived_sha256": "036e8397685e59bd75e934493ccd635705be6eb1205c97b15bd8d369e236cc73",
+    "fresh_sha256": "036e8397685e59bd75e934493ccd635705be6eb1205c97b15bd8d369e236cc73",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/experiments/__init__.py",
+    "archived_sha256": "4c45fb6ea95f5af30e101d4abf5351b236ac16cae6aa850ce04ff9af52b1ca58",
+    "fresh_sha256": "4c45fb6ea95f5af30e101d4abf5351b236ac16cae6aa850ce04ff9af52b1ca58",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/experiments/normalization_study.py",
+    "archived_sha256": "a045b8c2c22141a8c0112c4054588e313cca41e68cbaf0d6bcb060747db28a1d",
+    "fresh_sha256": "a045b8c2c22141a8c0112c4054588e313cca41e68cbaf0d6bcb060747db28a1d",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/experiments/old_norm_sidequest.py",
+    "archived_sha256": "5ffa12137eeab656f834f89611bc4d5b278676196fe07fecc53592f4b03b329a",
+    "fresh_sha256": "5ffa12137eeab656f834f89611bc4d5b278676196fe07fecc53592f4b03b329a",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/experiments/study.py",
+    "archived_sha256": "acf0e6a9bf54757bf2f8cff3b669fc31aff889ad58f861052d62d1915159b2b9",
+    "fresh_sha256": "acf0e6a9bf54757bf2f8cff3b669fc31aff889ad58f861052d62d1915159b2b9",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/experiments/study_gen3.py",
+    "archived_sha256": "4feebc7f4e8fac0ffdc464016359b0755a6892d8956c31b920ce9eb381fd465c",
+    "fresh_sha256": "4feebc7f4e8fac0ffdc464016359b0755a6892d8956c31b920ce9eb381fd465c",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/experiments/study_v2.py",
+    "archived_sha256": "b7ea09dfc0bc8dcc0ca9c17d40ee4bf6b7a55e6a5849b1adb5aa852a2b4d1421",
+    "fresh_sha256": "b7ea09dfc0bc8dcc0ca9c17d40ee4bf6b7a55e6a5849b1adb5aa852a2b4d1421",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/landscapes.py",
+    "archived_sha256": "5dd63137a5e839d64afac73e923eef62dab53e1a09cc8c6863da2f72dd4b5d27",
+    "fresh_sha256": "5dd63137a5e839d64afac73e923eef62dab53e1a09cc8c6863da2f72dd4b5d27",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/landscapes_d16.py",
+    "archived_sha256": "419dda3fd258c4953f1fa9e4ae96bb05c048367908b0cfa735d23c953c1a69fa",
+    "fresh_sha256": "419dda3fd258c4953f1fa9e4ae96bb05c048367908b0cfa735d23c953c1a69fa",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/landscapes_v2.py",
+    "archived_sha256": "a50f1363e55fae097f4aa1f391030382fefb5c9322c12e23cd7a938d959a2d02",
+    "fresh_sha256": "a50f1363e55fae097f4aa1f391030382fefb5c9322c12e23cd7a938d959a2d02",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/metrics.py",
+    "archived_sha256": "3dc356ce90854099215bb230222d403336dcb8f8fac942fcd94c90d391f7c4c2",
+    "fresh_sha256": "3dc356ce90854099215bb230222d403336dcb8f8fac942fcd94c90d391f7c4c2",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/metrics_v2.py",
+    "archived_sha256": "464287262ced8f936d40ddc85a94382963915f68176ce7a1f50ecdab58d89ff7",
+    "fresh_sha256": "464287262ced8f936d40ddc85a94382963915f68176ce7a1f50ecdab58d89ff7",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/normalization_diagnostics.py",
+    "archived_sha256": "5ef1253af9bf95c1776a005e99e8e98bcdbb8fa3c8f0587e2feba5b02e6473fa",
+    "fresh_sha256": "5ef1253af9bf95c1776a005e99e8e98bcdbb8fa3c8f0587e2feba5b02e6473fa",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/operators.py",
+    "archived_sha256": "86a0b9ec14e89b0349b4bb0725cd155e1e3ef4ff6588e89c271e0e0f1b64d766",
+    "fresh_sha256": "86a0b9ec14e89b0349b4bb0725cd155e1e3ef4ff6588e89c271e0e0f1b64d766",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/training.py",
+    "archived_sha256": "ea57fc46891044bc13005acd754bd9af5caa4e2a87384a813b8f2757fbf9c11f",
+    "fresh_sha256": "ea57fc46891044bc13005acd754bd9af5caa4e2a87384a813b8f2757fbf9c11f",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/training_v2.py",
+    "archived_sha256": "a89299a9b4c24b180b4aafb832263bcbba593e9a24484d1a30674d8a63619c18",
+    "fresh_sha256": "a89299a9b4c24b180b4aafb832263bcbba593e9a24484d1a30674d8a63619c18",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/visualization.py",
+    "archived_sha256": "3ff4f067fc6c613da46f071a6a8a13ec8f6114d27ada2691c381b206720692a3",
+    "fresh_sha256": "3ff4f067fc6c613da46f071a6a8a13ec8f6114d27ada2691c381b206720692a3",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/visualization_gen3.py",
+    "archived_sha256": "651cc947d9246eb0f30cbbaf504ebe8202509eed5c9876643a64fdf5b990c09d",
+    "fresh_sha256": "651cc947d9246eb0f30cbbaf504ebe8202509eed5c9876643a64fdf5b990c09d",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/visualization_normalization.py",
+    "archived_sha256": "0718ba3febf197f5834cfa5cef68b41c8d7d7b18fff5e830774cbacb7875a86a",
+    "fresh_sha256": "0718ba3febf197f5834cfa5cef68b41c8d7d7b18fff5e830774cbacb7875a86a",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/creativity_toy/visualization_v2.py",
+    "archived_sha256": "316cec1f19b800dae07efe04905e6f1852ad78eda7d2353fb6a4884dbb9683d1",
+    "fresh_sha256": "316cec1f19b800dae07efe04905e6f1852ad78eda7d2353fb6a4884dbb9683d1",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/__init__.py",
+    "archived_sha256": "60b3df95079624a3dba9a2fbe3b838660f75e87168d05b428b2cdcecfeb95a11",
+    "fresh_sha256": "60b3df95079624a3dba9a2fbe3b838660f75e87168d05b428b2cdcecfeb95a11",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/benchmark.py",
+    "archived_sha256": "cb1d7f4824e379a2a060666054164631cd2b96130fd449d68272d2dc5673aa4f",
+    "fresh_sha256": "cb1d7f4824e379a2a060666054164631cd2b96130fd449d68272d2dc5673aa4f",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/black_box_env.py",
+    "archived_sha256": "73dfc74ee2567e81b9b9b89b50819dad7f07b7e1b598b5666abf5c16555c7f20",
+    "fresh_sha256": "73dfc74ee2567e81b9b9b89b50819dad7f07b7e1b598b5666abf5c16555c7f20",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/comparison_rl.py",
+    "archived_sha256": "6c7fefa8458d0a87bb2f94ad003a1d69df27be63c762fef7ed7636c39570a179",
+    "fresh_sha256": "6c7fefa8458d0a87bb2f94ad003a1d69df27be63c762fef7ed7636c39570a179",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_capacity_diagnostic.py",
+    "archived_sha256": "c77e41a9027e4500203b9369e780fd98be98733e5a3b8d075e1ebbc988a23846",
+    "fresh_sha256": "c77e41a9027e4500203b9369e780fd98be98733e5a3b8d075e1ebbc988a23846",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_contrastive.py",
+    "archived_sha256": "2235c663dcdde46105a584487c52a1698be90896394df3b8d73e8b437779182e",
+    "fresh_sha256": "2235c663dcdde46105a584487c52a1698be90896394df3b8d73e8b437779182e",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_d16.py",
+    "archived_sha256": "f52ba5e8be0c8c7d6c3e7ee89bee2c79aef5712988752d836648ade9ca31fc57",
+    "fresh_sha256": "f52ba5e8be0c8c7d6c3e7ee89bee2c79aef5712988752d836648ade9ca31fc57",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_d32_generalization.py",
+    "archived_sha256": "6335f7f4c7cf2840d621446a797e0e262032090ef4347b9864972e25324f8125",
+    "fresh_sha256": "6335f7f4c7cf2840d621446a797e0e262032090ef4347b9864972e25324f8125",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_failure_diagnostics.py",
+    "archived_sha256": "a28173a0a7e32a7b14b8f1a2e092e386faf5e617cbc18a8e6743d776969cd389",
+    "fresh_sha256": "a28173a0a7e32a7b14b8f1a2e092e386faf5e617cbc18a8e6743d776969cd389",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_landscape_representation.py",
+    "archived_sha256": "2407276f767773dceb0fbb363ef4b1a27e0e2f1ec535b68b5e1772e56a398afe",
+    "fresh_sha256": "2407276f767773dceb0fbb363ef4b1a27e0e2f1ec535b68b5e1772e56a398afe",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_mode_preservation.py",
+    "archived_sha256": "dd712a1cfeb1e19e67ef02a050a9072afc463d22dc1d4fedc21ef141a2127a62",
+    "fresh_sha256": "dd712a1cfeb1e19e67ef02a050a9072afc463d22dc1d4fedc21ef141a2127a62",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_rl.py",
+    "archived_sha256": "668e4e0c92a99948a5de5d970a761cf4a56021d803491ad08b1c0a9ad6fe95a8",
+    "fresh_sha256": "668e4e0c92a99948a5de5d970a761cf4a56021d803491ad08b1c0a9ad6fe95a8",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_router.py",
+    "archived_sha256": "3b998dd1b3777ef62db1d746c1e91141897b8ed6497fc0e9899dc522df85843e",
+    "fresh_sha256": "3b998dd1b3777ef62db1d746c1e91141897b8ed6497fc0e9899dc522df85843e",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_symmetry.py",
+    "archived_sha256": "4d413316503b1ad3ca817d14d1541174e9d36a40767381b90b75b9e4478a16f1",
+    "fresh_sha256": "4d413316503b1ad3ca817d14d1541174e9d36a40767381b90b75b9e4478a16f1",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_symmetry_d64.py",
+    "archived_sha256": "6336f33bcf9b7dad71f3e74c847949b5e29b44a755222ba838e3cdfbb5ca1686",
+    "fresh_sha256": "6336f33bcf9b7dad71f3e74c847949b5e29b44a755222ba838e3cdfbb5ca1686",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/contrastive_evaluation.py",
+    "archived_sha256": "2c090c5484cb65f72458addd65f4c05cf8803a1f30cf8e706e184fa2730af937",
+    "fresh_sha256": "2c090c5484cb65f72458addd65f4c05cf8803a1f30cf8e706e184fa2730af937",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/contrastive_steering.py",
+    "archived_sha256": "1326a6eb7b85d025413081c5c5134085567c8924b3049364bdb50220066ae225",
+    "fresh_sha256": "1326a6eb7b85d025413081c5c5134085567c8924b3049364bdb50220066ae225",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/creative_policy_rl.py",
+    "archived_sha256": "d7c752bb68848fd4857b9e0f2b74d5e1c8e28ea134a22acc76ce1cccd8a973ae",
+    "fresh_sha256": "d7c752bb68848fd4857b9e0f2b74d5e1c8e28ea134a22acc76ce1cccd8a973ae",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/critic.py",
+    "archived_sha256": "58490171fc9e531802471f29602025c4bae6e34dbd7d40bf3d936e5dcbc4e9cd",
+    "fresh_sha256": "58490171fc9e531802471f29602025c4bae6e34dbd7d40bf3d936e5dcbc4e9cd",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/d32_generalization_models.py",
+    "archived_sha256": "9f8d97bce5b05953d831c48e356bbe8de1a6202b21799977a9744dfe1f23e3e2",
+    "fresh_sha256": "9f8d97bce5b05953d831c48e356bbe8de1a6202b21799977a9744dfe1f23e3e2",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/evaluation.py",
+    "archived_sha256": "66fc7d80e4b89776121ca9a0bf6bd906ae0e38278b8c30b9af5df0dcbc107f95",
+    "fresh_sha256": "66fc7d80e4b89776121ca9a0bf6bd906ae0e38278b8c30b9af5df0dcbc107f95",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/evaluation_mode.py",
+    "archived_sha256": "05bc65238bc5c3886e6d3cbb7be6687bae2fe7a4469dad15c2e647e07d0f0d42",
+    "fresh_sha256": "05bc65238bc5c3886e6d3cbb7be6687bae2fe7a4469dad15c2e647e07d0f0d42",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/failure_geometry.py",
+    "archived_sha256": "6d8565bbace540cb2398d9a39714e7e6145765ffb10704dc65c22c5fa6221846",
+    "fresh_sha256": "6d8565bbace540cb2398d9a39714e7e6145765ffb10704dc65c22c5fa6221846",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/frozen_inputs.py",
+    "archived_sha256": "710d08f184222fdf0c4afd85f64353f9b0916456cc2149c8ae4e186e676fc8aa",
+    "fresh_sha256": "710d08f184222fdf0c4afd85f64353f9b0916456cc2149c8ae4e186e676fc8aa",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/frozen_router_candidates.py",
+    "archived_sha256": "82d0b786740d5142bf1d6f3bb35a51443bea7c8e9f2060e0588d9c01cf3df047",
+    "fresh_sha256": "82d0b786740d5142bf1d6f3bb35a51443bea7c8e9f2060e0588d9c01cf3df047",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/landscape_representation.py",
+    "archived_sha256": "25027c31b02598bdab46467e51e87bd0bfb1b5d386fc040b03b6de6a833fac19",
+    "fresh_sha256": "25027c31b02598bdab46467e51e87bd0bfb1b5d386fc040b03b6de6a833fac19",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/mode_reward.py",
+    "archived_sha256": "ac971dc6047e643e3661f4aac081690c96068643187e7875be91561836268466",
+    "fresh_sha256": "ac971dc6047e643e3661f4aac081690c96068643187e7875be91561836268466",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/operator.py",
+    "archived_sha256": "515dec16a4d254f7d26e44ddf6aa9fe6a7ee0170e7d60453798e6037fb17eade",
+    "fresh_sha256": "515dec16a4d254f7d26e44ddf6aa9fe6a7ee0170e7d60453798e6037fb17eade",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/reference.py",
+    "archived_sha256": "54d97a34159084689d67a2f11ff24c72355a52f71041c3e54c58315ef91f4928",
+    "fresh_sha256": "54d97a34159084689d67a2f11ff24c72355a52f71041c3e54c58315ef91f4928",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/reports.py",
+    "archived_sha256": "b2a8ccaa6167ea665ec4ae98bf73508e60e84314402c1b9bf85a193e1b886f3d",
+    "fresh_sha256": "b2a8ccaa6167ea665ec4ae98bf73508e60e84314402c1b9bf85a193e1b886f3d",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/reports_capacity_diagnostic.py",
+    "archived_sha256": "078adf7608697d18c005cf4f89f0a3eb51f0172008e1a67c59ad37e60434eb52",
+    "fresh_sha256": "078adf7608697d18c005cf4f89f0a3eb51f0172008e1a67c59ad37e60434eb52",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/reports_contrastive.py",
+    "archived_sha256": "b3ce818fb429bf4e8180e6f6b0f4bcf6e621a024eeae86ef48eeea47c9bdd129",
+    "fresh_sha256": "b3ce818fb429bf4e8180e6f6b0f4bcf6e621a024eeae86ef48eeea47c9bdd129",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/reports_d16.py",
+    "archived_sha256": "86224a08f3d20b3a7ec82fc33c40298de5960c59a58a341fca9b23cc7065ab57",
+    "fresh_sha256": "86224a08f3d20b3a7ec82fc33c40298de5960c59a58a341fca9b23cc7065ab57",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/reports_d32_generalization.py",
+    "archived_sha256": "bc1d79c1acaa0e4d70e3cf7f781a7ad9554aaf448995d9fb85fb7a0ad6f95070",
+    "fresh_sha256": "bc1d79c1acaa0e4d70e3cf7f781a7ad9554aaf448995d9fb85fb7a0ad6f95070",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/reports_failure_diagnostics.py",
+    "archived_sha256": "85d4182211e9ee4cfc1b198b3be977a77dab4455b2302ad0c630df45caf46c51",
+    "fresh_sha256": "85d4182211e9ee4cfc1b198b3be977a77dab4455b2302ad0c630df45caf46c51",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/reports_landscape_representation.py",
+    "archived_sha256": "9a6fd6c13f42eac8eb93fe0925f2887a0c6e74bf13b64df08f6b4a2ad6791b7a",
+    "fresh_sha256": "9a6fd6c13f42eac8eb93fe0925f2887a0c6e74bf13b64df08f6b4a2ad6791b7a",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/reports_mode.py",
+    "archived_sha256": "b9286b63ac6d77eb668e30bf76d6d7d46849aa5c4e54adf78a7899242612fbd5",
+    "fresh_sha256": "b9286b63ac6d77eb668e30bf76d6d7d46849aa5c4e54adf78a7899242612fbd5",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/reports_symmetry.py",
+    "archived_sha256": "bac0fdb03b8a7261ce617437f9942f1c49e81267bd8632b21e0dcc623285a5a8",
+    "fresh_sha256": "bac0fdb03b8a7261ce617437f9942f1c49e81267bd8632b21e0dcc623285a5a8",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/router_evaluation.py",
+    "archived_sha256": "fbb5cb6540a35f7d562d4b0a99a495d632b848364ecf8302745184427c8e4903",
+    "fresh_sha256": "fbb5cb6540a35f7d562d4b0a99a495d632b848364ecf8302745184427c8e4903",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/router_reports.py",
+    "archived_sha256": "1ea084d779132145507386bee98f5c5489fa6f5fe7193cad9a009ed854a087ad",
+    "fresh_sha256": "1ea084d779132145507386bee98f5c5489fa6f5fe7193cad9a009ed854a087ad",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/router_useful_novelty.py",
+    "archived_sha256": "685d4e85703737ffb4de55951256e9180f311a3267f3b65a75dc7b312194e344",
+    "fresh_sha256": "685d4e85703737ffb4de55951256e9180f311a3267f3b65a75dc7b312194e344",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/runtime.py",
+    "archived_sha256": "ce109cffdc06cd5900914e4c841d414cf4f40b5df5b051be2fce226c54b0a2c7",
+    "fresh_sha256": "ce109cffdc06cd5900914e4c841d414cf4f40b5df5b051be2fce226c54b0a2c7",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study.py",
+    "archived_sha256": "51576c7dca0dbdd0326874b5e374091dad516cf7055e38d2cea60ab907571859",
+    "fresh_sha256": "51576c7dca0dbdd0326874b5e374091dad516cf7055e38d2cea60ab907571859",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study_capacity_diagnostic.py",
+    "archived_sha256": "3399fd9a6a20df1acffc950733cbdc6a2c8fa61a499e9efa4ce5870b8fdecc34",
+    "fresh_sha256": "3399fd9a6a20df1acffc950733cbdc6a2c8fa61a499e9efa4ce5870b8fdecc34",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study_contrastive.py",
+    "archived_sha256": "f1994f037d009397a376320ba146b931423680d120100982df3d7598ba2e6420",
+    "fresh_sha256": "f1994f037d009397a376320ba146b931423680d120100982df3d7598ba2e6420",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study_d16.py",
+    "archived_sha256": "80163ca8cab3b7301029e83512a9be1ece5a679219b1cec4f08948b26f7dcffe",
+    "fresh_sha256": "80163ca8cab3b7301029e83512a9be1ece5a679219b1cec4f08948b26f7dcffe",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study_d32_generalization.py",
+    "archived_sha256": "3f311483518b253f5ac91aeda06553f7077c1e5b286473cb51e2d3b43ea71f61",
+    "fresh_sha256": "3f311483518b253f5ac91aeda06553f7077c1e5b286473cb51e2d3b43ea71f61",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study_failure_diagnostics.py",
+    "archived_sha256": "8443b555dd255f1a5106aa1484139d947cbca8b00dc98a066fe3b39a7d592cbe",
+    "fresh_sha256": "8443b555dd255f1a5106aa1484139d947cbca8b00dc98a066fe3b39a7d592cbe",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study_landscape_representation.py",
+    "archived_sha256": "ed33c205f7bfe231c1419cb37f7ed5e9c9f22f1fa12f0b3323b40a76297b99b2",
+    "fresh_sha256": "ed33c205f7bfe231c1419cb37f7ed5e9c9f22f1fa12f0b3323b40a76297b99b2",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study_mode.py",
+    "archived_sha256": "46b655dd9202891290ba58a81b8bf39efe80ce58dcfb5af355dc10f3defc1b44",
+    "fresh_sha256": "46b655dd9202891290ba58a81b8bf39efe80ce58dcfb5af355dc10f3defc1b44",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study_rl.py",
+    "archived_sha256": "58b1e0eeb6d8564c78fbaa123d5d8a285567c48a448f21e2f5662a01b30795dc",
+    "fresh_sha256": "58b1e0eeb6d8564c78fbaa123d5d8a285567c48a448f21e2f5662a01b30795dc",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study_router.py",
+    "archived_sha256": "04f98a1c3f67f5570d95b85758e36715bcf581f87c9cb3f64cbb27c7298027d9",
+    "fresh_sha256": "04f98a1c3f67f5570d95b85758e36715bcf581f87c9cb3f64cbb27c7298027d9",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/study_symmetry.py",
+    "archived_sha256": "20eef79b2145e6fa72e43a63ed3de877e6818a8ccda52e52daf3a12d58299b17",
+    "fresh_sha256": "20eef79b2145e6fa72e43a63ed3de877e6818a8ccda52e52daf3a12d58299b17",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/supervised_capacity.py",
+    "archived_sha256": "7e47a0ec094ad17757dec14f7276ece87d289fb609835910fd7df1f397c4e0d7",
+    "fresh_sha256": "7e47a0ec094ad17757dec14f7276ece87d289fb609835910fd7df1f397c4e0d7",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/symmetry.py",
+    "archived_sha256": "fb720718f675e45e5fdfe22d6c27122a96ed80008e48e8da1592cebb011c3324",
+    "fresh_sha256": "fb720718f675e45e5fdfe22d6c27122a96ed80008e48e8da1592cebb011c3324",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/task_batch.py",
+    "archived_sha256": "83f4052f4c3e860ec1791aca30c6ed54b8c35d6bde0ced8de37037c9ba6d7cfa",
+    "fresh_sha256": "83f4052f4c3e860ec1791aca30c6ed54b8c35d6bde0ced8de37037c9ba6d7cfa",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/training.py",
+    "archived_sha256": "83eb8340822ffbac774ab19604f5b39337f8d1722ac7d56655c703c5a8bd7768",
+    "fresh_sha256": "83eb8340822ffbac774ab19604f5b39337f8d1722ac7d56655c703c5a8bd7768",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/training_anchor_escape.py",
+    "archived_sha256": "664be8813687c5f0a8291ed1ba0cf6098e4d922b262d7d92fbb400037fda9c0a",
+    "fresh_sha256": "664be8813687c5f0a8291ed1ba0cf6098e4d922b262d7d92fbb400037fda9c0a",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/training_endpoint_anchor.py",
+    "archived_sha256": "8c794c3b1606a21f084ef8daae4a5a1429410f392613332d2ecd2b4e2e64b299",
+    "fresh_sha256": "8c794c3b1606a21f084ef8daae4a5a1429410f392613332d2ecd2b4e2e64b299",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/training_es_gpu.py",
+    "archived_sha256": "244fbacbd308fa6a4eea1a2013352cfca1c8eb514d9719ff28d69eaaa5871ebd",
+    "fresh_sha256": "244fbacbd308fa6a4eea1a2013352cfca1c8eb514d9719ff28d69eaaa5871ebd",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/training_failure_diagnostics.py",
+    "archived_sha256": "6b361ac0b689c6b58e42b3f0352ffc0dc0bec5982e997b3377ce99fd446b4562",
+    "fresh_sha256": "6b361ac0b689c6b58e42b3f0352ffc0dc0bec5982e997b3377ce99fd446b4562",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/training_landscape_supervised.py",
+    "archived_sha256": "091adc60b7b5300bd823dac66a8b56c24866a92b20929253c7b89208d73b1117",
+    "fresh_sha256": "091adc60b7b5300bd823dac66a8b56c24866a92b20929253c7b89208d73b1117",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/training_mode_gpu.py",
+    "archived_sha256": "9e0830b59647203f9fdca2a3552f54aed8a2607890f89dd51b650e09d123764d",
+    "fresh_sha256": "9e0830b59647203f9fdca2a3552f54aed8a2607890f89dd51b650e09d123764d",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/training_rl_gpu.py",
+    "archived_sha256": "053e54284d13757f4aa24ee5cb403256dda4c6861e7e030c8d052caf4cd717f2",
+    "fresh_sha256": "053e54284d13757f4aa24ee5cb403256dda4c6861e7e030c8d052caf4cd717f2",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/training_symmetry.py",
+    "archived_sha256": "cc3c7c603a62c3cf199ed060bb45235e84130d485844471d701a78ab7798d80c",
+    "fresh_sha256": "cc3c7c603a62c3cf199ed060bb45235e84130d485844471d701a78ab7798d80c",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/validation.py",
+    "archived_sha256": "04fefb4ebefb3e2000332037ed456b4757212ec36f6e1169365a85111ae98c56",
+    "fresh_sha256": "04fefb4ebefb3e2000332037ed456b4757212ec36f6e1169365a85111ae98c56",
+    "exact": true
+  },
+  {
+    "path": "prepared_direct_comparison_20260921/source_snapshot/run_matched_scaling_study.py",
+    "archived_sha256": "45b0974346a11066ea68d5a4f326a1ed015bad92f1db9066351bc88c5cba1043",
+    "fresh_sha256": "45b0974346a11066ea68d5a4f326a1ed015bad92f1db9066351bc88c5cba1043",
+    "exact": true
+  }
+]

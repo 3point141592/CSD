@@ -1,0 +1,25 @@
+column,meaning,units
+study_id,Study group; see study_register.csv.,text
+dimension,Number of coordinates in the task.,integer
+seed,Recorded random seed identifying a run or evaluation group.,integer
+model_id,Original model or selector identifier.,text
+feature_set,Recorded input representation.,text
+encoder_width,Recorded encoder hidden width.,integer
+token_width,Recorded component-token width.,integer
+proposal_width,Recorded proposal representation width; interpret within the source model.,integer
+split,Evaluation condition; exact_rotated reuses the original tasks and starts.,text
+coverage,Mean fraction of designated useful regions reached by the candidate set; source field mode_set_recall.,fraction
+useful_candidate_fraction,Mean fraction of candidates satisfying the source useful-outcome rule.,fraction
+any_useful_success,Mean fraction of sets with at least one useful candidate; source field proposal_recall.,fraction
+mean_quality,Mean quality over all candidates under the source scoring rule.,source quality units
+decoy_fraction,Mean fraction of candidates assigned to decoy regions.,fraction
+n_cases,Number of evaluated candidate sets recorded in the source row.,integer
+status,Recorded completion state of the source result.,text
+config_file,Relative path from Research_Archive to configuration/protocol evidence.,path or missing marker
+task_file,"Relative path to saved task arrays, or a regeneration marker.",path or missing marker
+checkpoint_file,Relative path to the saved model; handwritten rules have no checkpoint.,path or not-applicable marker
+source_file,Relative path to the original result CSV.,path
+UNAVAILABLE_*,Not recorded in the original row; never interpret as zero. A regeneration marker points to retained code/configurations and seeds.,missing marker
+NOT_APPLICABLE_HANDWRITTEN_RULE,"This selector uses a fixed rule, with no learned checkpoint.",not applicable
+coverage denominator,Ordinarily three useful regions; extra-useful-peak tests use five and combined-unseen tests use four. See each protocol.,count
+sample SD,Across 30 seed-level results; not a confidence interval.,same as metric

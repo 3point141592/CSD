@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or evidence, cite this release and the associated paper."
+type: software
+title: "Geometry and supplied information in learned proposals for local search — code and research evidence"
+authors:
+  - family-names: "Mirok"
+    given-names: "Krivan"
+    affiliation: "Integrated Math and Science Program, Fraser Heights Secondary School, Surrey, British Columbia, Canada"
+version: 1.0.0
+repository-code: "https://github.com/3point141592/CSD"
+doi: "10.5281/zenodo.24047087"
+license: "MIT"
+# MIT covers original software and generated research files; see README.
+# Manuscript publication licensing is handled separately.

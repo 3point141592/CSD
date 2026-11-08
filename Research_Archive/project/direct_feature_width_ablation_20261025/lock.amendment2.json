@@ -1,0 +1,13 @@
+{
+    "created_utc":  "2026-10-25T23:56:11.578854+00:00",
+    "source_hashes":  {
+                          "direct_feature_width_ablation_20261025/PLAN.md":  "92d6d089ab05879f88b7dcbca93f7be03ee6026bfe1f33023ecb7630d62fef03",
+                          "direct_feature_width_ablation_20261025/run.py":  "ebcf06bc18adbf147eb641c62fe564e966dbc15c6559a82b1ec8efa653716b51",
+                          "prepared_direct_comparison_20260921/lock.json":  "55eaeb89c48b2df1c5528a04cccb19583615734b1c7dfae725c8fad8754b116c",
+                          "prepared_direct_comparison_20260921/experiment.py":  "fa93a6029e678955f7c127df6156efbf40d80023914dc73cb5538d1b0d4f2926",
+                          "prepared_direct_comparison_20260921/source_snapshot/gen3_gpu/config_landscape_representation.py":  "2407276f767773dceb0fbb363ef4b1a27e0e2f1ec535b68b5e1772e56a398afe"
+                      },
+    "prior_lock_sha256":  "55eaeb89c48b2df1c5528a04cccb19583615734b1c7dfae725c8fad8754b116c",
+    "configuration_sha256":  "d15f4a973b4697171921f7855fe5e8730dbdfe910e13fce44955a5bbee747556",
+    "amended_from_sha256":  "d4b6f52fbce39afb0838302657e369026e92383bcbf80ab806db6c813100497e"
+}

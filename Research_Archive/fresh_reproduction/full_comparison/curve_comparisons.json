@@ -1,0 +1,1682 @@
+[
+  {
+    "key": "d32_s7_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s7_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s19_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s19_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s43_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s43_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s71_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s71_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s101_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s101_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s131_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s131_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s163_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s163_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s197_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s197_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s229_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s229_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s263_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s263_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s293_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s293_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s331_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s331_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s367_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s367_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s401_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s401_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s439_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s439_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s479_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s479_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s521_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s521_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s563_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s563_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s607_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s607_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s653_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s653_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s701_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s701_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s751_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s751_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s809_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s809_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s863_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s863_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s919_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s919_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s977_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s977_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1031_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1031_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1091_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1091_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1153_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1153_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1217_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1217_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s7_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s7_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s19_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s19_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s43_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s43_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s71_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s71_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s101_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s101_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s131_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s131_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s163_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s163_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s197_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s197_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s229_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s229_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s263_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s263_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s293_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s293_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s331_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s331_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s367_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s367_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s401_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s401_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s439_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s439_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s479_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s479_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s521_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s521_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s563_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s563_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s607_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s607_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s653_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s653_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s701_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s701_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s751_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s751_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s809_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s809_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s863_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s863_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s919_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s919_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s977_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s977_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1031_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1031_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1091_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1091_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1153_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1153_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1217_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1217_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s7_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s7_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s19_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s19_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s43_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s43_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s71_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s71_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s101_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s101_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s131_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s131_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s163_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s163_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s197_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s197_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s229_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s229_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s263_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s263_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s293_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s293_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s331_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s331_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s367_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s367_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s401_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s401_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s439_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s439_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s479_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s479_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s521_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s521_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s563_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s563_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s607_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s607_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s653_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s653_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s701_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s701_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s751_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s751_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s809_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s809_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s863_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s863_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s919_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s919_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s977_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s977_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1031_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1031_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1091_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1091_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1153_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1153_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1217_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s1217_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s7_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s7_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s19_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s19_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s43_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s43_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s71_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s71_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s101_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s101_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s131_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s131_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s163_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s163_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s197_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s197_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s229_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s229_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s263_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s263_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s293_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s293_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s331_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s331_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s367_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s367_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s401_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s401_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s439_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s439_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s479_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s479_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s521_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s521_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s563_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s563_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s607_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s607_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s653_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s653_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s701_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s701_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s751_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s751_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s809_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s809_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s863_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s863_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s919_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s919_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s977_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s977_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1031_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1031_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1091_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1091_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1153_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1153_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1217_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s1217_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  }
+]

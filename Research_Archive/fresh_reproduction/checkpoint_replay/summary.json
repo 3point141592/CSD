@@ -1,0 +1,17 @@
+{
+  "completed_utc": "2026-10-31T21:45:11Z",
+  "models_evaluated": 240,
+  "metric_rows": 480,
+  "numeric_comparisons": 14760,
+  "exact_comparisons": 14760,
+  "comparisons_outside_tolerance": 0,
+  "all_within_predeclared_tolerance": true,
+  "all_exact": true,
+  "max_absolute_delta": 0.0,
+  "models_all_exact": 240,
+  "data_pairs": 60,
+  "elapsed_seconds": 256.2283254000358,
+  "inference_performed": true,
+  "training_performed": false,
+  "completion_status": "pass"
+}

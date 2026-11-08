@@ -1,0 +1,17 @@
+dimension,split,contrast,n_paired_seeds,mean_difference,sample_sd,ci95_low,ci95_high,ci_method,caution
+32,iid,PreparedNarrow_minus_OriginalDirect,30,0.23629630903402965,0.10827544428273465,0.19888888994852702,0.2740740984678268,paired_seed_percentile_bootstrap_20000,historical raw/narrow is not contemporaneous
+32,iid,RawWide_minus_OriginalDirect,30,0.36925924321015674,0.13916626719413402,0.3207407275835673,0.41888888776302335,paired_seed_percentile_bootstrap_20000,historical raw/narrow is not contemporaneous
+32,iid,PreparedWide_minus_PreparedNarrow,30,0.15296290715535482,0.09285606545020227,0.12111105918884277,0.18629623651504518,paired_seed_percentile_bootstrap_20000,"same prior protocol, different run dates"
+32,iid,PreparedWide_minus_RawWide,30,0.0199999729792277,0.04015716919952754,0.006666652361551921,0.03481477896372477,paired_seed_percentile_bootstrap_20000,"same prior protocol, different run dates"
+32,exact_rotated,PreparedNarrow_minus_OriginalDirect,30,0.0018518520519137383,0.005123700968835473,0.00037037041038274766,0.0037037041038274765,paired_seed_percentile_bootstrap_20000,historical raw/narrow is not contemporaneous
+32,exact_rotated,RawWide_minus_OriginalDirect,30,0.0018518520519137383,0.004211656252660148,0.00037037041038274766,0.0033333336934447287,paired_seed_percentile_bootstrap_20000,historical raw/narrow is not contemporaneous
+32,exact_rotated,PreparedWide_minus_PreparedNarrow,30,0.6333333876604835,0.05703024488130814,0.6137037502601743,0.6537037677442034,paired_seed_percentile_bootstrap_20000,"same prior protocol, different run dates"
+32,exact_rotated,PreparedWide_minus_RawWide,30,0.6333333876604835,0.05605143513522664,0.6137037543579936,0.6529630181690057,paired_seed_percentile_bootstrap_20000,"same prior protocol, different run dates"
+64,iid,PreparedNarrow_minus_OriginalDirect,30,0.024444446029762427,0.03382775316423946,0.012962963804602623,0.037407409586012366,paired_seed_percentile_bootstrap_20000,historical raw/narrow is not contemporaneous
+64,iid,RawWide_minus_OriginalDirect,30,0.17666667997837066,0.09639523164936287,0.14333334378898144,0.21037038676440717,paired_seed_percentile_bootstrap_20000,historical raw/narrow is not contemporaneous
+64,iid,PreparedWide_minus_PreparedNarrow,30,0.9733333357299367,0.03899546359071903,0.9588888986657064,0.9862962953746319,paired_seed_percentile_bootstrap_20000,"same prior protocol, different run dates"
+64,iid,PreparedWide_minus_RawWide,30,0.8211111017813285,0.09866499689543332,0.7870370204250018,0.8559259171287219,paired_seed_percentile_bootstrap_20000,"same prior protocol, different run dates"
+64,exact_rotated,PreparedNarrow_minus_OriginalDirect,30,0.0,0.0,0.0,0.0,paired_seed_percentile_bootstrap_20000,historical raw/narrow is not contemporaneous
+64,exact_rotated,RawWide_minus_OriginalDirect,30,0.0,0.0,0.0,0.0,paired_seed_percentile_bootstrap_20000,historical raw/narrow is not contemporaneous
+64,exact_rotated,PreparedWide_minus_PreparedNarrow,30,0.631481538216273,0.04435655565315734,0.6159259796142578,0.6470370948314667,paired_seed_percentile_bootstrap_20000,"same prior protocol, different run dates"
+64,exact_rotated,PreparedWide_minus_RawWide,30,0.631481538216273,0.04435655565315734,0.6159259835879008,0.6470370928446452,paired_seed_percentile_bootstrap_20000,"same prior protocol, different run dates"

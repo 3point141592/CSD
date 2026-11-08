@@ -1,0 +1,170 @@
+[
+  {
+    "key": "d32_s7_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s7_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s19_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s19_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s43_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s43_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s7_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s7_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s19_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s19_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s43_DirectPrepared",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s43_Relational",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s7_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s7_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s19_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s19_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s43_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d32_s43_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s7_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s7_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s19_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s19_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s43_DirectPreparedNarrow",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  },
+  {
+    "key": "d64_s43_DirectRawWide",
+    "exact": true,
+    "different_fields": 0,
+    "max_absolute_numeric_difference": 0.0,
+    "differences": []
+  }
+]

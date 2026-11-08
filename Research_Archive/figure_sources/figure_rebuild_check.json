@@ -1,0 +1,130 @@
+{
+  "record_scope": "Current publication Figures 1-4 and B1-B3, rebuilt and verified byte-for-byte in the unified Python 3.10 environment on 2026-11-01.",
+  "figures": {
+    "Figure1.png": {
+      "received_sha256": "c7e01e18aef00abcb786a594bddab5b8ee0defa1bcf2d0a710a2b5c7187b9225",
+      "rebuilt_sha256": "c7e01e18aef00abcb786a594bddab5b8ee0defa1bcf2d0a710a2b5c7187b9225",
+      "byte_identical": true
+    },
+    "Figure2.png": {
+      "received_sha256": "09a0fbb4468005913b698e8091f6425ef6ed33af431e28b0f14483ba8e691036",
+      "rebuilt_sha256": "09a0fbb4468005913b698e8091f6425ef6ed33af431e28b0f14483ba8e691036",
+      "byte_identical": true
+    },
+    "FigureB1.png": {
+      "received_sha256": "bfffaecb6bc98bfb92ae673185cfe8488f37e7a62fab0a7a409192e778bbbe59",
+      "rebuilt_sha256": "bfffaecb6bc98bfb92ae673185cfe8488f37e7a62fab0a7a409192e778bbbe59",
+      "byte_identical": true
+    },
+    "FigureB2.png": {
+      "received_sha256": "2ac9bc3d3a68330833262a307ec8d8c73549bd256e0cf63bec361b06b60553af",
+      "rebuilt_sha256": "2ac9bc3d3a68330833262a307ec8d8c73549bd256e0cf63bec361b06b60553af",
+      "byte_identical": true
+    },
+    "FigureB3.png": {
+      "received_sha256": "fb36715e0c380d55dd07cb96664e7e5671cb7f47d53b6ef31fc9069fe189ba58",
+      "rebuilt_sha256": "fb36715e0c380d55dd07cb96664e7e5671cb7f47d53b6ef31fc9069fe189ba58",
+      "byte_identical": true
+    },
+    "Figure3.png": {
+      "received_sha256": "6a94a600dc300353261eec62ab620f0dbb59dff0d596b86d5debafbed2a6fcca",
+      "rebuilt_sha256": "6a94a600dc300353261eec62ab620f0dbb59dff0d596b86d5debafbed2a6fcca",
+      "byte_identical": true
+    },
+    "Figure4.png": {
+      "received_sha256": "cf68f7101560985e473ae86c9310123f3bf8e692aaaa00e7d0e610a32a12ee01",
+      "rebuilt_sha256": "cf68f7101560985e473ae86c9310123f3bf8e692aaaa00e7d0e610a32a12ee01",
+      "byte_identical": true
+    }
+  },
+  "environment": {
+    "python": "3.10.11",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "matplotlib": "3.10.9",
+    "pillow": "12.2.0",
+    "freetype": "2.6.1",
+    "platform": "win32",
+    "packages": {
+      "torch": "2.12.1+cu132",
+      "numpy": "2.2.6",
+      "scipy": "1.15.3",
+      "pandas": "2.3.3",
+      "matplotlib": "3.10.9",
+      "psutil": "7.2.2",
+      "pytest": "9.1.1",
+      "pillow": "12.2.0",
+      "contourpy": "1.3.2",
+      "cycler": "0.12.1",
+      "fonttools": "4.63.0",
+      "kiwisolver": "1.5.0",
+      "packaging": "26.2",
+      "pyparsing": "3.3.2",
+      "python-dateutil": "2.9.0.post0",
+      "pytz": "2026.2",
+      "six": "1.17.0",
+      "tzdata": "2026.2"
+    }
+  },
+  "input_csv_sha256": {
+    "cone_per_set.csv": "dcc022ef9d8ce70d63a1ed47a610c35ab00aa31458bff332b398da982e4d7d44",
+    "corruption_per_seed.csv": "800c5f169194602e3b9078510e12ae01903c28b5e97eecdafe0089da9bf024b5",
+    "matched_d16.csv": "d9fa7a6c5261d51d3a9002a2ce3edcf662a083412412fa738c8634e29ab0532f",
+    "matched_d2.csv": "ea6f916b61b9d8293753764553fce9c5364f07dd3dc21a05ab9dee69b143eecf",
+    "matched_d32.csv": "6d0a26e3cd6993f18d36ea357cc4ef991afb507bda35bf042cb2b46d89aed635",
+    "matched_d4.csv": "570e945565ad4139e635fccaac704ee4378495cf6a82d04bf18cc69c3911ad24",
+    "matched_d64.csv": "669a880f94f7460650e8d1950038f4b0f6dced0307050475e4e496d347bfd91c",
+    "matched_d8.csv": "5236cddae72cba9e39d6efe4e3c09e10c31c330dd27f294b5609c39ce3ed12c5",
+    "multiplicity_per_set.csv": "67cd023753b88bb91eac9f93a2a1e4f0c377355f2e3eb2e8158994ac73f18c9e",
+    "prepared_per_seed.csv": "7359ec609d51425ccc815f938d6295f05a6268c33cffa646a07b0e87bca57638",
+    "rank_per_seed.csv": "09caf7aa34c9eecf87260860b52531479b1c8b5c948031d8299fd08aa6f51892",
+    "selectors_per_seed.csv": "5b6eceace380bdb4fe8cc378147ab60b99c484f35032f1c2d51ef3e86843037e",
+    "wide_per_seed.csv": "98638c986e6b27036764ac144a29f749e9cc2c3d5698354d7e3572d054d3d44e"
+  },
+  "scientific_inputs_unchanged": true,
+  "training_or_inference_performed": false,
+  "publication_png_refresh_2026_11_01": {
+    "date": "2026-11-01",
+    "status": "adopted",
+    "scope": "Current standalone publication PNGs match a fresh rebuild in the unified Python 3.10 environment.",
+    "requirements_file": "requirements.txt",
+    "fresh_rebuild_exit_code": 0,
+    "figure_builder_sha256": "15302e1fbff56b8e586e083859c5b3eda14a86f09b5ffb69f111832cd9d426f9",
+    "input_csv_count": 13,
+    "all_input_hashes_match": true,
+    "all_fourteen_publication_copies_match_fresh_build": true,
+    "publication_folders": [
+      "GitHub_Repository/paper",
+      "PeerJ_Package/01_Journal_Files"
+    ],
+    "png_sha256": {
+      "Figure1.png": "c7e01e18aef00abcb786a594bddab5b8ee0defa1bcf2d0a710a2b5c7187b9225",
+      "Figure2.png": "09a0fbb4468005913b698e8091f6425ef6ed33af431e28b0f14483ba8e691036",
+      "FigureB1.png": "bfffaecb6bc98bfb92ae673185cfe8488f37e7a62fab0a7a409192e778bbbe59",
+      "FigureB2.png": "2ac9bc3d3a68330833262a307ec8d8c73549bd256e0cf63bec361b06b60553af",
+      "FigureB3.png": "fb36715e0c380d55dd07cb96664e7e5671cb7f47d53b6ef31fc9069fe189ba58",
+      "Figure3.png": "6a94a600dc300353261eec62ab620f0dbb59dff0d596b86d5debafbed2a6fcca",
+      "Figure4.png": "cf68f7101560985e473ae86c9310123f3bf8e692aaaa00e7d0e610a32a12ee01"
+    },
+    "all_seven_pngs_match_rebuild": true
+  },
+  "isolated_environment_check_2026_11_01": {
+    "date": "2026-11-01",
+    "scope": "Fresh dependency installation and figure reproduction on Windows.",
+    "python": "3.10.11 (main, May  7 2023, 18:05:05) [MSC v.1929 64 bit (AMD64)]",
+    "requirements_file": "requirements.txt",
+    "requirements_sha256": "e1087119167d7b2f7063a9374bbe55297cdf3873e2f48b3061a0de3fdf8c72ba",
+    "include_system_site_packages": false,
+    "enable_user_site": false,
+    "pinned_packages_verified": 18,
+    "installed_distributions_checked": 34,
+    "all_package_versions_match_requirements": true,
+    "all_installed_distributions_inside_venv": true,
+    "pip_check_pass": true,
+    "figure_builder_sha256": "15302e1fbff56b8e586e083859c5b3eda14a86f09b5ffb69f111832cd9d426f9",
+    "input_csvs_verified": 13,
+    "pngs_byte_identical_to_publication_copies": 7,
+    "svg_files_generated_and_valid": 7,
+    "freetype": "2.6.1"
+  }
+}

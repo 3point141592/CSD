@@ -1,0 +1,56 @@
+{
+  "dimensions": [
+    32,
+    64
+  ],
+  "seeds": [
+    7,
+    19,
+    43,
+    71,
+    101,
+    131,
+    163,
+    197,
+    229,
+    263,
+    293,
+    331,
+    367,
+    401,
+    439,
+    479,
+    521,
+    563,
+    607,
+    653,
+    701,
+    751,
+    809,
+    863,
+    919,
+    977,
+    1031,
+    1091,
+    1153,
+    1217
+  ],
+  "steps": 1500,
+  "models": {
+    "DirectPreparedNarrow": {
+      "features": "r_phi",
+      "hidden": 64,
+      "token": 32,
+      "proposal": 16
+    },
+    "DirectRawWide": {
+      "features": "raw",
+      "hidden": 256,
+      "token": 128,
+      "proposal": 256
+    }
+  },
+  "comparison": "retrospective_two_missing_cells",
+  "prior_dir": "C:\\Users\\krivi\\OneDrive\\Desktop\\Creativity\\prepared_direct_comparison_20260921",
+  "prior_config_sha256": "5f6eb693730595898de009aa663b774ad78ae7218d31fca39554475508b67692"
+}

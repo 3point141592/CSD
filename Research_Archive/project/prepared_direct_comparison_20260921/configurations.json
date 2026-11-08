@@ -1,0 +1,902 @@
+{
+  "32": {
+    "matched": {
+      "name": "paper_matched_scaling_d32",
+      "dimension": 32,
+      "candidates": 8,
+      "latent_dimension": 3,
+      "training_geometries": 80,
+      "starts_per_task": 32,
+      "supervised_steps": 1500,
+      "batch_size": 960,
+      "learning_rate": 0.001,
+      "weight_decay": 0.0001,
+      "gradient_clip": 1.0,
+      "lambda_alpha": 0.1,
+      "alpha_max": 6.0,
+      "task_token_dimension": 32,
+      "invariant_component_hidden_dimension": 543,
+      "invariant_component_token_dimension": 32,
+      "seeds": [
+        7,
+        19,
+        43,
+        71,
+        101,
+        131,
+        163,
+        197,
+        229,
+        263,
+        293,
+        331,
+        367,
+        401,
+        439,
+        479,
+        521,
+        563,
+        607,
+        653,
+        701,
+        751,
+        809,
+        863,
+        919,
+        977,
+        1031,
+        1091,
+        1153,
+        1217
+      ],
+      "curve_steps": [
+        0,
+        25,
+        50,
+        100,
+        250,
+        500,
+        1000,
+        1500
+      ],
+      "conditions": [
+        "CurrentAttention",
+        "EquivariantAttention"
+      ],
+      "primary_splits": [
+        "iid",
+        "exact_translated",
+        "exact_rotated",
+        "exact_rotation_translation"
+      ],
+      "secondary_splits": [
+        "width_shift",
+        "more_peaks",
+        "more_decoys",
+        "new_goals",
+        "unseen",
+        "family_translated",
+        "family_rotated"
+      ],
+      "exact_translation_radius": 4.5,
+      "coordinate_transfer_success_recall": 0.75,
+      "exact_equivariance_cosine_threshold": 0.99999,
+      "augmentation": {
+        "rotation_pool_size": 4096,
+        "translation_radius_max": 6.0,
+        "distribution": "Haar_SO32_pool_x_uniform_radial_translation"
+      }
+    },
+    "benchmark": {
+      "name": "failure_d32",
+      "dimension": 32,
+      "seeds": [
+        7,
+        19,
+        43,
+        71,
+        101,
+        131,
+        163,
+        197,
+        229,
+        263,
+        293,
+        331,
+        367,
+        401,
+        439,
+        479,
+        521,
+        563,
+        607,
+        653,
+        701,
+        751,
+        809,
+        863,
+        919,
+        977,
+        1031,
+        1091,
+        1153,
+        1217
+      ],
+      "smoke_seeds": [
+        7,
+        19,
+        43
+      ],
+      "contrastive_validation_seeds": 6,
+      "mode_lambda": 0.1,
+      "router_lambda_novelty": 0.1,
+      "router_quality_threshold": 0.5,
+      "router_quality_gate_beta": 10.0,
+      "generalization_variants": [
+        "iid",
+        "rotated",
+        "translated",
+        "width_shift",
+        "more_peaks",
+        "more_decoys",
+        "new_goals",
+        "unseen"
+      ],
+      "base": {
+        "name": "failure_d32",
+        "base": {
+          "name": "failure_d32",
+          "seeds": [
+            7,
+            19,
+            43,
+            71,
+            101,
+            131,
+            163,
+            197,
+            229,
+            263,
+            293,
+            331,
+            367,
+            401,
+            439,
+            479,
+            521,
+            563,
+            607,
+            653,
+            701,
+            751,
+            809,
+            863,
+            919,
+            977,
+            1031,
+            1091,
+            1153,
+            1217
+          ],
+          "train_geometries": 80,
+          "test_geometries": 5,
+          "trials_per_task": 2,
+          "ablation_seeds": 6,
+          "alpha_values": [
+            0.0,
+            0.1,
+            0.25,
+            0.5,
+            0.75,
+            1.0,
+            1.25
+          ],
+          "k_values": [
+            1,
+            4,
+            8,
+            16
+          ],
+          "run_ablations": false,
+          "run_generalization": false,
+          "landscape": {
+            "dimension": 32,
+            "useful_peaks": 3,
+            "decoys": 5,
+            "alternative_radius": 4.5,
+            "decoy_radius": 7.0,
+            "anchor_quality": 0.88,
+            "target_quality": 0.98,
+            "secondary_quality": 0.68,
+            "decoy_quality_min": 0.24,
+            "decoy_quality_max": 0.38,
+            "useful_radial_width": 0.7,
+            "useful_lateral_width": 0.42,
+            "corridor_radial_width": 2.9,
+            "corridor_lateral_width": 0.28,
+            "corridor_target_quality": 0.3,
+            "corridor_secondary_quality": 0.18,
+            "decoy_radial_width": 1.55,
+            "decoy_lateral_width": 1.2,
+            "anchor_width": 0.65,
+            "train_translation_scale": 0.8,
+            "train_rotation_range": 0.3,
+            "family_seed": 27041,
+            "useful_threshold": 0.62,
+            "high_quality_threshold": 0.78,
+            "region_mahalanobis_threshold": 2.5
+          },
+          "training": {
+            "alpha": 3.0,
+            "candidates": 8,
+            "latent_dimension": 3,
+            "hidden_dimension": 16,
+            "gen1_iterations": 45,
+            "gen2_iterations": 65,
+            "population": 14,
+            "batch_size": 12,
+            "learning_rate": 0.035,
+            "sigma_start": 0.24,
+            "sigma_end": 0.045,
+            "gradient_clip": 8.0,
+            "refinement_steps": 9,
+            "refinement_rate": 0.28,
+            "quality_weight": 1.0,
+            "best_quality_weight": 0.2,
+            "raw_quality_weight": 0.08,
+            "novelty_weight": 0.25,
+            "diversity_weight": 0.65,
+            "step_weight": 0.08,
+            "low_quality_distance_weight": 0.18,
+            "regularization_weight": 0.002,
+            "quality_gate": 0.62,
+            "gate_temperature": 0.07,
+            "diversity_beta": 7.0,
+            "semantic_scale": 4.5,
+            "diversity_scale": 5.0,
+            "random_radius": 4.8,
+            "pure_divergence_radius": 7.0,
+            "critic_ridge": 0.01,
+            "critic_temperature": 0.12,
+            "alpha_regularization_weight": 0.0,
+            "alpha_reference": 3.0
+          }
+        },
+        "alpha_max": 6.0,
+        "alpha_initial": 3.0,
+        "alpha_hidden_dimension": 32,
+        "alpha_modes": [
+          "global",
+          "contextual_linear",
+          "contextual_mlp"
+        ],
+        "unnormalized_results": "results/v2_normalization_main",
+        "fixed_alpha_results": "results/v2_normalization_alpha_3",
+        "old_norm_results": "results/v2_normalization_main"
+      },
+      "rl": {
+        "name": "rl_adamw_main",
+        "primary_alpha_mode": "contextual_linear",
+        "alpha_max": 6.0,
+        "alpha_hidden_dimension": 32,
+        "validation_geometries": 5,
+        "training": {
+          "learning_rate": 0.0003,
+          "weight_decay": 0.0001,
+          "batch_size": 12,
+          "max_candidate_evaluations": 100000,
+          "checkpoint_budgets": [
+            0,
+            10000,
+            25000,
+            50000,
+            100000
+          ],
+          "direction_std_init": 0.2,
+          "alpha_std_init": 0.35,
+          "direction_std_min": 0.01,
+          "direction_std_max": 1.0,
+          "alpha_std_min": 0.01,
+          "alpha_std_max": 2.0,
+          "entropy_coefficient": 0.001,
+          "gradient_clip": 1.0,
+          "advantage_epsilon": 1e-08,
+          "nearly_deterministic_direction_cosine": 0.999,
+          "nearly_deterministic_alpha_delta": 0.01,
+          "log_every_steps": 10,
+          "reward": {
+            "lambda_novelty": 0.65,
+            "quality_threshold": 0.62,
+            "quality_gate_beta": 14.285714285714286,
+            "diversity_scale": 5.0,
+            "novelty_clip": 1.5
+          }
+        },
+        "sweep": {
+          "learning_rates": [
+            0.0001,
+            0.0003,
+            0.001,
+            0.003
+          ],
+          "weight_decays": [
+            0.0,
+            0.0001,
+            0.001
+          ],
+          "seeds": 3,
+          "candidate_evaluations": 25000,
+          "stochastic_validation_rollouts": 3
+        },
+        "generalization_variants": [
+          "iid",
+          "rotated",
+          "translated",
+          "width_shift",
+          "more_peaks",
+          "more_decoys",
+          "new_goals",
+          "unseen"
+        ]
+      },
+      "mode": {
+        "lambda_mode": 0.1,
+        "allocation": "shared_joint",
+        "quality_gated": true,
+        "epsilon": 1e-08
+      },
+      "contrastive": {
+        "name": "failure_d32",
+        "dimension": 32,
+        "candidate_count": 8,
+        "direction_kinds": [
+          "goal"
+        ],
+        "proposal_forms": [
+          "single",
+          "k_radius"
+        ],
+        "data": {
+          "samples_per_region": 48,
+          "sample_scale": 0.45,
+          "background_radius_scale": 1.15,
+          "rejection_batch": 256,
+          "max_rejection_batches": 100
+        },
+        "sweep": {
+          "alphas": [
+            0.0,
+            0.25,
+            0.5,
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            4.0,
+            5.0,
+            6.0
+          ],
+          "seeds": 6,
+          "quality_tolerance": 0.05,
+          "decoy_tolerance": 0.05
+        },
+        "representative_seeds": [
+          7,
+          19
+        ],
+        "generalization_variants": [
+          "iid",
+          "rotated",
+          "translated",
+          "width_shift",
+          "more_peaks",
+          "more_decoys",
+          "new_goals",
+          "unseen"
+        ]
+      },
+      "router": {
+        "name": "router_useful_novelty",
+        "ridge": 0.01,
+        "diversity_scale": 5.0,
+        "novelty_clip": 1.5,
+        "novelty_normalization": "divide_by_diversity_scale_then_clip",
+        "target_epsilon": 1e-08,
+        "pairwise_steps": 200,
+        "pairwise_learning_rate": 0.03,
+        "pairwise_weight_decay": 0.0001,
+        "inference_repetitions": 50,
+        "sweep": {
+          "lambda_novelty": [
+            0.05,
+            0.1,
+            0.25,
+            0.5,
+            1.0
+          ],
+          "quality_thresholds": [
+            0.5,
+            0.6,
+            0.7,
+            0.8
+          ],
+          "quality_gate_betas": [
+            5.0,
+            10.0,
+            20.0
+          ],
+          "selection_seeds": 3,
+          "useful_weight": 0.25,
+          "decoy_penalty": 0.25
+        },
+        "generalization_variants": [
+          "iid",
+          "rotated",
+          "translated",
+          "width_shift",
+          "more_peaks",
+          "more_decoys",
+          "new_goals",
+          "unseen"
+        ]
+      }
+    },
+    "direct_prepared": {
+      "component_hidden_dimension": 256,
+      "component_token_dimension": 128,
+      "proposal_hidden_dimension": 256,
+      "descriptor_dimension": 75
+    }
+  },
+  "64": {
+    "matched": {
+      "name": "paper_matched_scaling_d64",
+      "dimension": 64,
+      "candidates": 8,
+      "latent_dimension": 3,
+      "training_geometries": 80,
+      "starts_per_task": 32,
+      "supervised_steps": 1500,
+      "batch_size": 960,
+      "learning_rate": 0.001,
+      "weight_decay": 0.0001,
+      "gradient_clip": 1.0,
+      "lambda_alpha": 0.1,
+      "alpha_max": 6.0,
+      "task_token_dimension": 32,
+      "invariant_component_hidden_dimension": 1340,
+      "invariant_component_token_dimension": 32,
+      "seeds": [
+        7,
+        19,
+        43,
+        71,
+        101,
+        131,
+        163,
+        197,
+        229,
+        263,
+        293,
+        331,
+        367,
+        401,
+        439,
+        479,
+        521,
+        563,
+        607,
+        653,
+        701,
+        751,
+        809,
+        863,
+        919,
+        977,
+        1031,
+        1091,
+        1153,
+        1217
+      ],
+      "curve_steps": [
+        0,
+        25,
+        50,
+        100,
+        250,
+        500,
+        1000,
+        1500
+      ],
+      "conditions": [
+        "CurrentAttention",
+        "EquivariantAttention"
+      ],
+      "primary_splits": [
+        "iid",
+        "exact_translated",
+        "exact_rotated",
+        "exact_rotation_translation"
+      ],
+      "secondary_splits": [
+        "width_shift",
+        "more_peaks",
+        "more_decoys",
+        "new_goals",
+        "unseen",
+        "family_translated",
+        "family_rotated"
+      ],
+      "exact_translation_radius": 4.5,
+      "coordinate_transfer_success_recall": 0.75,
+      "exact_equivariance_cosine_threshold": 0.99999,
+      "augmentation": {
+        "rotation_pool_size": 4096,
+        "translation_radius_max": 6.0,
+        "distribution": "Haar_SO32_pool_x_uniform_radial_translation"
+      }
+    },
+    "benchmark": {
+      "name": "failure_d64",
+      "dimension": 64,
+      "seeds": [
+        7,
+        19,
+        43,
+        71,
+        101,
+        131,
+        163,
+        197,
+        229,
+        263,
+        293,
+        331,
+        367,
+        401,
+        439,
+        479,
+        521,
+        563,
+        607,
+        653,
+        701,
+        751,
+        809,
+        863,
+        919,
+        977,
+        1031,
+        1091,
+        1153,
+        1217
+      ],
+      "smoke_seeds": [
+        7,
+        19,
+        43
+      ],
+      "contrastive_validation_seeds": 6,
+      "mode_lambda": 0.1,
+      "router_lambda_novelty": 0.1,
+      "router_quality_threshold": 0.5,
+      "router_quality_gate_beta": 10.0,
+      "generalization_variants": [
+        "iid",
+        "rotated",
+        "translated",
+        "width_shift",
+        "more_peaks",
+        "more_decoys",
+        "new_goals",
+        "unseen"
+      ],
+      "base": {
+        "name": "failure_d64",
+        "base": {
+          "name": "failure_d64",
+          "seeds": [
+            7,
+            19,
+            43,
+            71,
+            101,
+            131,
+            163,
+            197,
+            229,
+            263,
+            293,
+            331,
+            367,
+            401,
+            439,
+            479,
+            521,
+            563,
+            607,
+            653,
+            701,
+            751,
+            809,
+            863,
+            919,
+            977,
+            1031,
+            1091,
+            1153,
+            1217
+          ],
+          "train_geometries": 80,
+          "test_geometries": 5,
+          "trials_per_task": 2,
+          "ablation_seeds": 6,
+          "alpha_values": [
+            0.0,
+            0.1,
+            0.25,
+            0.5,
+            0.75,
+            1.0,
+            1.25
+          ],
+          "k_values": [
+            1,
+            4,
+            8,
+            16
+          ],
+          "run_ablations": false,
+          "run_generalization": false,
+          "landscape": {
+            "dimension": 64,
+            "useful_peaks": 3,
+            "decoys": 5,
+            "alternative_radius": 4.5,
+            "decoy_radius": 7.0,
+            "anchor_quality": 0.88,
+            "target_quality": 0.98,
+            "secondary_quality": 0.68,
+            "decoy_quality_min": 0.24,
+            "decoy_quality_max": 0.38,
+            "useful_radial_width": 0.7,
+            "useful_lateral_width": 0.42,
+            "corridor_radial_width": 2.9,
+            "corridor_lateral_width": 0.28,
+            "corridor_target_quality": 0.3,
+            "corridor_secondary_quality": 0.18,
+            "decoy_radial_width": 1.55,
+            "decoy_lateral_width": 1.2,
+            "anchor_width": 0.65,
+            "train_translation_scale": 0.8,
+            "train_rotation_range": 0.3,
+            "family_seed": 27041,
+            "useful_threshold": 0.62,
+            "high_quality_threshold": 0.78,
+            "region_mahalanobis_threshold": 2.5
+          },
+          "training": {
+            "alpha": 3.0,
+            "candidates": 8,
+            "latent_dimension": 3,
+            "hidden_dimension": 16,
+            "gen1_iterations": 45,
+            "gen2_iterations": 65,
+            "population": 14,
+            "batch_size": 12,
+            "learning_rate": 0.035,
+            "sigma_start": 0.24,
+            "sigma_end": 0.045,
+            "gradient_clip": 8.0,
+            "refinement_steps": 9,
+            "refinement_rate": 0.28,
+            "quality_weight": 1.0,
+            "best_quality_weight": 0.2,
+            "raw_quality_weight": 0.08,
+            "novelty_weight": 0.25,
+            "diversity_weight": 0.65,
+            "step_weight": 0.08,
+            "low_quality_distance_weight": 0.18,
+            "regularization_weight": 0.002,
+            "quality_gate": 0.62,
+            "gate_temperature": 0.07,
+            "diversity_beta": 7.0,
+            "semantic_scale": 4.5,
+            "diversity_scale": 5.0,
+            "random_radius": 4.8,
+            "pure_divergence_radius": 7.0,
+            "critic_ridge": 0.01,
+            "critic_temperature": 0.12,
+            "alpha_regularization_weight": 0.0,
+            "alpha_reference": 3.0
+          }
+        },
+        "alpha_max": 6.0,
+        "alpha_initial": 3.0,
+        "alpha_hidden_dimension": 32,
+        "alpha_modes": [
+          "global",
+          "contextual_linear",
+          "contextual_mlp"
+        ],
+        "unnormalized_results": "results/v2_normalization_main",
+        "fixed_alpha_results": "results/v2_normalization_alpha_3",
+        "old_norm_results": "results/v2_normalization_main"
+      },
+      "rl": {
+        "name": "rl_adamw_main",
+        "primary_alpha_mode": "contextual_linear",
+        "alpha_max": 6.0,
+        "alpha_hidden_dimension": 32,
+        "validation_geometries": 5,
+        "training": {
+          "learning_rate": 0.0003,
+          "weight_decay": 0.0001,
+          "batch_size": 12,
+          "max_candidate_evaluations": 100000,
+          "checkpoint_budgets": [
+            0,
+            10000,
+            25000,
+            50000,
+            100000
+          ],
+          "direction_std_init": 0.2,
+          "alpha_std_init": 0.35,
+          "direction_std_min": 0.01,
+          "direction_std_max": 1.0,
+          "alpha_std_min": 0.01,
+          "alpha_std_max": 2.0,
+          "entropy_coefficient": 0.001,
+          "gradient_clip": 1.0,
+          "advantage_epsilon": 1e-08,
+          "nearly_deterministic_direction_cosine": 0.999,
+          "nearly_deterministic_alpha_delta": 0.01,
+          "log_every_steps": 10,
+          "reward": {
+            "lambda_novelty": 0.65,
+            "quality_threshold": 0.62,
+            "quality_gate_beta": 14.285714285714286,
+            "diversity_scale": 5.0,
+            "novelty_clip": 1.5
+          }
+        },
+        "sweep": {
+          "learning_rates": [
+            0.0001,
+            0.0003,
+            0.001,
+            0.003
+          ],
+          "weight_decays": [
+            0.0,
+            0.0001,
+            0.001
+          ],
+          "seeds": 3,
+          "candidate_evaluations": 25000,
+          "stochastic_validation_rollouts": 3
+        },
+        "generalization_variants": [
+          "iid",
+          "rotated",
+          "translated",
+          "width_shift",
+          "more_peaks",
+          "more_decoys",
+          "new_goals",
+          "unseen"
+        ]
+      },
+      "mode": {
+        "lambda_mode": 0.1,
+        "allocation": "shared_joint",
+        "quality_gated": true,
+        "epsilon": 1e-08
+      },
+      "contrastive": {
+        "name": "failure_d64",
+        "dimension": 64,
+        "candidate_count": 8,
+        "direction_kinds": [
+          "goal"
+        ],
+        "proposal_forms": [
+          "single",
+          "k_radius"
+        ],
+        "data": {
+          "samples_per_region": 48,
+          "sample_scale": 0.45,
+          "background_radius_scale": 1.15,
+          "rejection_batch": 256,
+          "max_rejection_batches": 100
+        },
+        "sweep": {
+          "alphas": [
+            0.0,
+            0.25,
+            0.5,
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            4.0,
+            5.0,
+            6.0
+          ],
+          "seeds": 6,
+          "quality_tolerance": 0.05,
+          "decoy_tolerance": 0.05
+        },
+        "representative_seeds": [
+          7,
+          19
+        ],
+        "generalization_variants": [
+          "iid",
+          "rotated",
+          "translated",
+          "width_shift",
+          "more_peaks",
+          "more_decoys",
+          "new_goals",
+          "unseen"
+        ]
+      },
+      "router": {
+        "name": "router_useful_novelty",
+        "ridge": 0.01,
+        "diversity_scale": 5.0,
+        "novelty_clip": 1.5,
+        "novelty_normalization": "divide_by_diversity_scale_then_clip",
+        "target_epsilon": 1e-08,
+        "pairwise_steps": 200,
+        "pairwise_learning_rate": 0.03,
+        "pairwise_weight_decay": 0.0001,
+        "inference_repetitions": 50,
+        "sweep": {
+          "lambda_novelty": [
+            0.05,
+            0.1,
+            0.25,
+            0.5,
+            1.0
+          ],
+          "quality_thresholds": [
+            0.5,
+            0.6,
+            0.7,
+            0.8
+          ],
+          "quality_gate_betas": [
+            5.0,
+            10.0,
+            20.0
+          ],
+          "selection_seeds": 3,
+          "useful_weight": 0.25,
+          "decoy_penalty": 0.25
+        },
+        "generalization_variants": [
+          "iid",
+          "rotated",
+          "translated",
+          "width_shift",
+          "more_peaks",
+          "more_decoys",
+          "new_goals",
+          "unseen"
+        ]
+      }
+    },
+    "direct_prepared": {
+      "component_hidden_dimension": 256,
+      "component_token_dimension": 128,
+      "proposal_hidden_dimension": 256,
+      "descriptor_dimension": 139
+    }
+  }
+}

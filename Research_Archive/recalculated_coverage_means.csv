@@ -1,0 +1,17 @@
+study_id,dimension,model,split,n,unique_seeds,complete,coverage_mean,coverage_sample_sd
+prepared,32,DirectPrepared,exact_rotated,30,30,True,0.6351852397123973,0.0561336547502239
+prepared,32,DirectPrepared,iid,30,30,True,0.9977777798970541,0.012171600781249566
+prepared,32,Relational,exact_rotated,30,30,True,0.99666668176651,0.010581210236591747
+prepared,32,Relational,iid,30,30,True,0.99666668176651,0.010581210236591747
+prepared,64,DirectPrepared,exact_rotated,30,30,True,0.631481538216273,0.04435655565315734
+prepared,64,DirectPrepared,iid,30,30,True,0.9985185225804647,0.008114386011140388
+prepared,64,Relational,exact_rotated,30,30,True,0.997777791817983,0.0053803516446362274
+prepared,64,Relational,iid,30,30,True,0.997777791817983,0.0053803516446362274
+feature_width,32,DirectPreparedNarrow,exact_rotated,30,30,True,0.0018518520519137383,0.005123700968835473
+feature_width,32,DirectPreparedNarrow,iid,30,30,True,0.8448148727416992,0.09150755593118406
+feature_width,32,DirectRawWide,exact_rotated,30,30,True,0.0018518520519137383,0.004211656252660148
+feature_width,32,DirectRawWide,iid,30,30,True,0.9777778069178263,0.0369090702578996
+feature_width,64,DirectPreparedNarrow,exact_rotated,30,30,True,0.0,0.0
+feature_width,64,DirectPreparedNarrow,iid,30,30,True,0.02518518685052792,0.0345170847056126
+feature_width,64,DirectRawWide,exact_rotated,30,30,True,0.0,0.0
+feature_width,64,DirectRawWide,iid,30,30,True,0.17740742079913616,0.09762978696025401

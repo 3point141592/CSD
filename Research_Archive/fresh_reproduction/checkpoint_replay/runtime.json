@@ -1,0 +1,43 @@
+{
+  "python": "3.10.11 (main, May  7 2023, 18:05:05) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "torch_version": "2.12.1+cu132",
+  "cuda_available": true,
+  "torch_cuda_version": "13.2",
+  "device": "cuda",
+  "device_name": "NVIDIA GeForce RTX 5090",
+  "dtype": "float32",
+  "tf32_matmul": false,
+  "tf32_cudnn": false,
+  "executable": "C:\\Users\\krivi\\OneDrive\\Desktop\\Creativity\\CSD_Recovery_and_Manuscript_Update\\environment\\.venv\\Scripts\\python.exe",
+  "numpy": "2.2.6",
+  "psutil": "7.2.2",
+  "threads": 24,
+  "interop_threads": 24,
+  "cudnn_version": 92000,
+  "deterministic_algorithms": false,
+  "matmul_precision": "highest",
+  "pid": 41268,
+  "host_memory": {
+    "total": 68135153664,
+    "available": 19314466816,
+    "percent": 71.7,
+    "used": 48820686848,
+    "free": 19314466816
+  },
+  "disk": {
+    "total": 4065061761024,
+    "used": 3956294344704,
+    "free": 108767416320
+  },
+  "nvidia_smi": "name, driver_version, memory.total [MiB], memory.used [MiB], utilization.gpu [%]\nNVIDIA GeForce RTX 5090, 610.60, 32607 MiB, 8412 MiB, 28 %\n",
+  "driver_version": "610.60",
+  "assessment_utc": "2026-10-31T21:40:55Z",
+  "operation": "saved_checkpoint_forward_evaluation_no_training",
+  "checkpoint_driver_sha256": "da92e512c8ec2e9f2f5768a62d43e5eba0f55f8ee74b1af639e1f486c1a14a41",
+  "working_project": "C:\\Users\\krivi\\Documents\\Codex\\2026-10-30\\ins\\outputs\\CSD_Fresh_Reproduction_2026-10-31\\project",
+  "original_archive": "C:\\Users\\krivi\\OneDrive\\Desktop\\Creativity\\CSD_PeerJ_Evidence_Package_20261028_v1\\02_Research_Archive",
+  "archived_runtime_differences": {},
+  "archived_executable": "C:\\Users\\krivi\\OneDrive\\Desktop\\Creativity\\CSD_Recovery_and_Manuscript_Update\\environment\\.venv\\Scripts\\python.exe",
+  "archived_python_build": "3.10.11 (main, May  7 2023, 18:05:05) [MSC v.1929 64 bit (AMD64)]"
+}

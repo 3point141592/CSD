@@ -1,0 +1,5 @@
+dimension,split,contrast,n_paired_seeds,mean_difference,sample_sd,ci95_low,ci95_high,method,analysis_seed
+32,iid,DirectRawWide_minus_DirectPreparedNarrow,30,0.13296293417612712,0.08413956379907037,0.10370368560155233,0.16333330074946087,paired_seed_percentile_bootstrap_20000,20261025
+32,exact_rotated,DirectRawWide_minus_DirectPreparedNarrow,30,0.0,0.006524669810601237,-0.002222222462296486,0.002222222462296486,paired_seed_percentile_bootstrap_20000,20261025
+64,iid,DirectRawWide_minus_DirectPreparedNarrow,30,0.15222223394860823,0.0963863986918533,0.118148156752189,0.18555557324240604,paired_seed_percentile_bootstrap_20000,20261025
+64,exact_rotated,DirectRawWide_minus_DirectPreparedNarrow,30,0.0,0.0,0.0,0.0,paired_seed_percentile_bootstrap_20000,20261025

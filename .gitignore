@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.mplcache/
+.pytest_cache/
+.ruff_cache/
+/Research_Archive/figure_sources/Figures/

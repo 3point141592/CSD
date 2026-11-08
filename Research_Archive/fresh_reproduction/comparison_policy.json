@@ -1,0 +1,49 @@
+{
+  "policy_version": 1,
+  "purpose": "Conservative continuation gate for the fixed-seed fresh-training pilot and full central reproduction",
+  "pilot_seeds": [
+    7,
+    19,
+    43
+  ],
+  "dimensions": [
+    32,
+    64
+  ],
+  "models": [
+    "DirectPrepared",
+    "Relational",
+    "DirectPreparedNarrow",
+    "DirectRawWide"
+  ],
+  "expected_optimizer_steps": 1500,
+  "fraction_absolute_tolerance": 1e-06,
+  "other_metric_absolute_tolerance": 1e-05,
+  "relative_tolerance": 0,
+  "integer_metrics_exact": true,
+  "source_and_configuration_exact": true,
+  "seeded_feature_hashes_exact": true,
+  "checkpoint_tensors_exact_for_automatic_continuation": true,
+  "training_histories_exact_for_automatic_continuation": true,
+  "runtime_identity_keys": [
+    "python",
+    "numpy",
+    "torch_version",
+    "torch_cuda_version",
+    "device",
+    "device_name",
+    "dtype",
+    "tf32_matmul",
+    "tf32_cudnn",
+    "deterministic_algorithms",
+    "matmul_precision",
+    "threads",
+    "interop_threads",
+    "cudnn_version",
+    "driver_version"
+  ],
+  "allowed_runtime_differences": {},
+  "fresh_completion_not_before_utc": "2026-10-31T21:42:56.791285+00:00",
+  "require_full_summary_files": true,
+  "interpretation": "Any gate failure stops automatic expansion for investigation. It does not by itself establish that the paper is scientifically invalid. Timing and memory differences are recorded but do not gate. No thresholds may be loosened after seeing outcomes without an explicit documented review."
+}
